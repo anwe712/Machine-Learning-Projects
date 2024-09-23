@@ -1,0 +1,1001 @@
+User ID,Age,Gender,Symptoms,Duration (weeks),Previous Diagnosis,Therapy History,Medication,Diagnosis / Condition,Suggested Therapy,Self-care Advice,Urgency Level,Mood,Stress Level
+1,56,Non-binary,feeling anxious,21,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Exercise,Low,8,10
+2,69,Non-binary,trouble sleeping,42,None,Yes,Yes,Panic Disorder,No Therapy Needed,Take Breaks,Moderate,7,2
+3,46,Non-binary,feeling irritable,26,PTSD,Yes,Yes,Stress,Cognitive Behavioral Therapy,Take Breaks,High,3,2
+4,32,Other,feeling sad,44,Depression,No,Yes,Anxiety,Support Groups,Journaling,Moderate,8,4
+5,60,Male,feeling sad,14,PTSD,No,No,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,Low,2,9
+6,25,Non-binary,feeling irritable,37,PTSD,No,Yes,Panic Disorder,Psychotherapy,Journaling,Critical,2,7
+7,38,Male,feeling irritable,21,Bipolar Disorder,No,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Critical,10,2
+8,56,Other,trouble sleeping,18,Depression,Yes,Yes,Anxiety,No Therapy Needed,Meditation,Moderate,3,8
+9,36,Female,feeling irritable,5,None,Yes,No,Anxiety,Psychotherapy,Exercise,Critical,7,7
+10,40,Non-binary,feeling anxious,3,None,No,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Low,1,9
+11,28,Male,panic attacks,23,OCD,No,Yes,Burnout,Psychotherapy,Journaling,Low,8,8
+12,28,Male,feeling irritable,26,Anxiety,Yes,No,Depression,Cognitive Behavioral Therapy,Exercise,Moderate,7,3
+13,41,Non-binary,feeling sad,37,OCD,No,Yes,Anxiety,Support Groups,Take Breaks,Low,4,1
+14,53,Female,feeling irritable,24,OCD,No,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,High,5,2
+15,57,Female,feeling anxious,49,None,Yes,Yes,Anxiety,No Therapy Needed,Journaling,Low,10,2
+16,41,Female,excessive worry,19,Bipolar Disorder,No,Yes,Burnout,Cognitive Behavioral Therapy,Take Breaks,Moderate,1,4
+17,20,Other,excessive worry,51,PTSD,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,High,4,6
+18,39,Male,feeling overwhelmed,25,PTSD,Yes,No,Stress,Cognitive Behavioral Therapy,Take Breaks,High,1,4
+19,19,Male,lack of concentration,21,PTSD,No,Yes,Burnout,No Therapy Needed,Take Breaks,Critical,1,9
+20,41,Male,panic attacks,12,Depression,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Low,10,4
+21,61,Other,loss of interest in activities,41,None,No,Yes,Burnout,No Therapy Needed,Journaling,Moderate,1,6
+22,47,Male,feeling overwhelmed,33,Bipolar Disorder,Yes,Yes,Depression,Psychotherapy,Breathing Exercises,Critical,7,6
+23,55,Other,excessive worry,50,Depression,No,Yes,Anxiety,No Therapy Needed,Meditation,Critical,7,10
+24,19,Female,feeling sad,4,Anxiety,No,Yes,Depression,Psychotherapy,Take Breaks,Low,4,10
+25,38,Non-binary,loss of interest in activities,42,Bipolar Disorder,No,No,Anxiety,Mindfulness-Based Therapy,Take Breaks,Low,2,1
+26,50,Male,feeling overwhelmed,7,OCD,Yes,No,Burnout,Psychotherapy,Meditation,Moderate,3,8
+27,29,Male,loss of interest in activities,22,Bipolar Disorder,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Critical,8,3
+28,39,Female,trouble sleeping,33,Bipolar Disorder,No,Yes,Stress,Mindfulness-Based Therapy,Exercise,Moderate,8,6
+29,61,Non-binary,lack of concentration,17,PTSD,Yes,Yes,Depression,Support Groups,Talk to a Friend,Critical,6,3
+30,42,Other,trouble sleeping,24,Bipolar Disorder,No,Yes,Burnout,Mindfulness-Based Therapy,Talk to a Friend,Critical,10,2
+31,66,Non-binary,loss of interest in activities,34,OCD,No,No,Panic Disorder,Psychotherapy,Exercise,Critical,9,5
+32,44,Female,trouble sleeping,28,OCD,Yes,No,Burnout,Support Groups,Journaling,Low,9,1
+33,59,Female,feeling anxious,43,None,No,Yes,Depression,Support Groups,Talk to a Friend,Critical,4,9
+34,45,Non-binary,excessive worry,41,Bipolar Disorder,Yes,Yes,Stress,Mindfulness-Based Therapy,Meditation,Critical,1,7
+35,33,Other,feeling anxious,39,PTSD,No,No,Burnout,No Therapy Needed,Exercise,Critical,1,3
+36,32,Other,feeling irritable,22,Bipolar Disorder,Yes,No,Anxiety,No Therapy Needed,Breathing Exercises,High,10,4
+37,64,Male,trouble sleeping,49,Anxiety,No,No,Panic Disorder,Support Groups,Journaling,Low,5,6
+38,68,Other,feeling irritable,17,Anxiety,No,Yes,Burnout,Mindfulness-Based Therapy,Exercise,High,2,3
+39,61,Non-binary,feeling sad,34,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Talk to a Friend,Low,6,7
+40,69,Female,panic attacks,6,None,No,Yes,Anxiety,Mindfulness-Based Therapy,Journaling,Moderate,7,6
+41,20,Male,feeling sad,46,None,No,No,Stress,Mindfulness-Based Therapy,Meditation,High,1,9
+42,54,Male,loss of interest in activities,6,OCD,Yes,No,Stress,Support Groups,Journaling,Moderate,6,5
+43,68,Female,excessive worry,34,OCD,No,Yes,Anxiety,Support Groups,Journaling,Critical,8,4
+44,24,Other,trouble sleeping,1,Depression,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Meditation,Moderate,5,3
+45,38,Female,feeling overwhelmed,10,PTSD,No,No,Burnout,No Therapy Needed,Take Breaks,Moderate,7,10
+46,26,Other,panic attacks,21,Bipolar Disorder,Yes,Yes,Anxiety,No Therapy Needed,Meditation,Moderate,10,1
+47,56,Female,lack of concentration,5,PTSD,No,No,Depression,No Therapy Needed,Journaling,Moderate,6,3
+48,35,Non-binary,lack of concentration,2,Depression,No,No,Panic Disorder,Psychotherapy,Meditation,Low,4,3
+49,21,Other,lack of concentration,22,OCD,No,Yes,Stress,Mindfulness-Based Therapy,Take Breaks,High,7,7
+50,42,Non-binary,trouble sleeping,48,PTSD,Yes,No,Anxiety,Support Groups,Exercise,Low,10,7
+51,31,Male,lack of concentration,2,PTSD,Yes,Yes,Stress,No Therapy Needed,Meditation,Low,9,1
+52,67,Female,feeling anxious,10,OCD,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Meditation,Low,10,3
+53,26,Male,panic attacks,34,Depression,Yes,No,Stress,No Therapy Needed,Journaling,Moderate,10,8
+54,43,Male,feeling anxious,16,OCD,No,Yes,Anxiety,Mindfulness-Based Therapy,Exercise,Low,7,9
+55,19,Male,panic attacks,48,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,High,5,7
+56,37,Male,feeling anxious,51,Bipolar Disorder,Yes,Yes,Depression,Support Groups,Breathing Exercises,Low,7,7
+57,45,Female,panic attacks,39,OCD,Yes,Yes,Anxiety,Psychotherapy,Talk to a Friend,Critical,3,8
+58,64,Male,feeling irritable,22,Depression,Yes,No,Burnout,Support Groups,Meditation,Moderate,2,6
+59,24,Female,trouble sleeping,12,Anxiety,No,Yes,Anxiety,No Therapy Needed,Meditation,Critical,5,3
+60,61,Female,trouble sleeping,24,None,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Exercise,High,4,1
+61,25,Non-binary,lack of concentration,47,Anxiety,Yes,Yes,Anxiety,Support Groups,Take Breaks,High,5,7
+62,64,Other,feeling sad,40,OCD,No,Yes,Depression,Psychotherapy,Breathing Exercises,High,8,1
+63,52,Other,lack of concentration,38,None,No,Yes,Depression,Support Groups,Talk to a Friend,High,4,1
+64,31,Female,loss of interest in activities,10,Bipolar Disorder,Yes,Yes,Burnout,Mindfulness-Based Therapy,Exercise,Low,9,9
+65,34,Non-binary,feeling anxious,35,OCD,No,No,Stress,No Therapy Needed,Meditation,Moderate,7,10
+66,53,Female,panic attacks,51,Bipolar Disorder,Yes,Yes,Panic Disorder,No Therapy Needed,Breathing Exercises,High,10,7
+67,67,Female,feeling sad,49,PTSD,No,No,Panic Disorder,No Therapy Needed,Talk to a Friend,Critical,7,4
+68,57,Female,loss of interest in activities,32,Anxiety,Yes,No,Stress,No Therapy Needed,Journaling,High,8,6
+69,21,Non-binary,trouble sleeping,7,None,Yes,Yes,Depression,No Therapy Needed,Breathing Exercises,Moderate,6,1
+70,19,Other,trouble sleeping,21,Bipolar Disorder,Yes,No,Depression,No Therapy Needed,Talk to a Friend,Critical,8,7
+71,23,Non-binary,lack of concentration,20,Depression,Yes,No,Anxiety,Cognitive Behavioral Therapy,Exercise,Critical,3,6
+72,59,Male,feeling anxious,26,Bipolar Disorder,No,Yes,Burnout,Psychotherapy,Journaling,Critical,10,4
+73,21,Non-binary,feeling sad,4,Depression,No,Yes,Burnout,No Therapy Needed,Talk to a Friend,Low,10,7
+74,46,Non-binary,excessive worry,46,OCD,No,Yes,Burnout,Psychotherapy,Talk to a Friend,High,1,3
+75,35,Non-binary,loss of interest in activities,22,None,No,No,Anxiety,No Therapy Needed,Meditation,Low,6,1
+76,43,Non-binary,loss of interest in activities,15,Bipolar Disorder,Yes,No,Burnout,Support Groups,Take Breaks,Critical,1,4
+77,61,Other,lack of concentration,40,Bipolar Disorder,Yes,Yes,Stress,No Therapy Needed,Breathing Exercises,Low,9,3
+78,51,Male,trouble sleeping,21,None,No,Yes,Anxiety,Mindfulness-Based Therapy,Meditation,Low,2,1
+79,27,Other,lack of concentration,15,Bipolar Disorder,No,No,Stress,Cognitive Behavioral Therapy,Journaling,Low,2,2
+80,53,Other,panic attacks,22,Depression,No,No,Anxiety,Support Groups,Take Breaks,High,7,5
+81,31,Non-binary,feeling sad,28,Bipolar Disorder,No,No,Burnout,Support Groups,Talk to a Friend,Critical,2,8
+82,48,Female,feeling anxious,14,Anxiety,No,No,Stress,Mindfulness-Based Therapy,Meditation,Critical,10,1
+83,65,Female,feeling irritable,27,OCD,Yes,Yes,Stress,No Therapy Needed,Take Breaks,High,8,4
+84,32,Other,feeling overwhelmed,41,PTSD,Yes,No,Stress,Cognitive Behavioral Therapy,Breathing Exercises,Low,6,4
+85,25,Other,feeling overwhelmed,40,Depression,Yes,No,Anxiety,Support Groups,Journaling,Low,7,5
+86,31,Non-binary,lack of concentration,28,Anxiety,No,No,Panic Disorder,Cognitive Behavioral Therapy,Exercise,Moderate,7,7
+87,40,Other,panic attacks,26,OCD,No,No,Burnout,Support Groups,Meditation,Moderate,6,8
+88,57,Non-binary,feeling sad,49,None,No,Yes,Stress,No Therapy Needed,Journaling,Moderate,10,6
+89,38,Female,excessive worry,2,Depression,No,Yes,Panic Disorder,Support Groups,Exercise,High,9,1
+90,33,Female,feeling overwhelmed,25,PTSD,Yes,No,Burnout,Support Groups,Meditation,Critical,9,7
+91,62,Male,feeling sad,3,OCD,Yes,No,Burnout,Psychotherapy,Journaling,Moderate,7,3
+92,35,Female,feeling anxious,8,PTSD,No,Yes,Stress,No Therapy Needed,Journaling,Critical,9,6
+93,64,Other,panic attacks,44,None,Yes,Yes,Stress,Mindfulness-Based Therapy,Take Breaks,Critical,10,8
+94,41,Female,trouble sleeping,33,None,Yes,No,Anxiety,Mindfulness-Based Therapy,Meditation,Critical,3,7
+95,43,Non-binary,feeling sad,42,Depression,No,No,Panic Disorder,No Therapy Needed,Journaling,High,3,10
+96,42,Female,feeling anxious,35,Bipolar Disorder,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,High,1,6
+97,62,Male,excessive worry,6,None,No,Yes,Stress,No Therapy Needed,Meditation,High,5,9
+98,58,Female,feeling irritable,39,OCD,No,Yes,Burnout,Mindfulness-Based Therapy,Journaling,High,4,9
+99,46,Non-binary,trouble sleeping,23,Bipolar Disorder,No,Yes,Stress,Psychotherapy,Take Breaks,Moderate,2,1
+100,32,Non-binary,feeling irritable,25,Anxiety,No,Yes,Burnout,Mindfulness-Based Therapy,Exercise,Low,9,1
+101,62,Other,excessive worry,50,PTSD,Yes,Yes,Burnout,Support Groups,Exercise,Low,3,1
+102,18,Female,feeling anxious,43,Bipolar Disorder,Yes,No,Stress,No Therapy Needed,Talk to a Friend,Low,8,8
+103,42,Non-binary,feeling overwhelmed,19,PTSD,No,Yes,Depression,Cognitive Behavioral Therapy,Meditation,Moderate,6,10
+104,24,Male,feeling irritable,5,Bipolar Disorder,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Take Breaks,Low,5,7
+105,26,Other,trouble sleeping,51,Anxiety,No,Yes,Burnout,No Therapy Needed,Journaling,Moderate,1,3
+106,41,Male,lack of concentration,11,None,No,Yes,Burnout,Psychotherapy,Journaling,Moderate,4,2
+107,18,Female,loss of interest in activities,12,Anxiety,No,No,Depression,Mindfulness-Based Therapy,Exercise,Moderate,3,4
+108,61,Female,feeling sad,10,None,No,No,Anxiety,Psychotherapy,Take Breaks,Low,1,3
+109,25,Female,feeling overwhelmed,8,None,Yes,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Critical,5,7
+110,41,Other,feeling irritable,24,PTSD,No,No,Depression,No Therapy Needed,Exercise,Low,6,10
+111,28,Non-binary,feeling sad,28,OCD,Yes,No,Burnout,No Therapy Needed,Exercise,Low,2,8
+112,68,Other,lack of concentration,41,Anxiety,No,No,Panic Disorder,Psychotherapy,Talk to a Friend,High,3,6
+113,34,Male,excessive worry,36,Bipolar Disorder,No,No,Depression,Psychotherapy,Meditation,Moderate,6,3
+114,25,Other,loss of interest in activities,37,Anxiety,No,No,Anxiety,Mindfulness-Based Therapy,Journaling,Critical,4,6
+115,52,Male,feeling anxious,21,PTSD,Yes,No,Stress,Support Groups,Meditation,High,9,2
+116,52,Other,lack of concentration,8,None,No,Yes,Depression,Support Groups,Take Breaks,Critical,5,7
+117,50,Non-binary,lack of concentration,9,PTSD,No,Yes,Depression,Mindfulness-Based Therapy,Breathing Exercises,Critical,4,10
+118,22,Male,excessive worry,47,Depression,No,Yes,Anxiety,Support Groups,Breathing Exercises,Moderate,2,7
+119,59,Female,panic attacks,15,Depression,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Low,6,4
+120,56,Female,excessive worry,48,Bipolar Disorder,Yes,Yes,Depression,Support Groups,Talk to a Friend,Moderate,10,8
+121,58,Other,panic attacks,46,PTSD,Yes,No,Depression,Mindfulness-Based Therapy,Exercise,Moderate,2,4
+122,45,Female,panic attacks,40,Bipolar Disorder,No,Yes,Panic Disorder,Support Groups,Meditation,High,7,7
+123,24,Male,feeling overwhelmed,18,Bipolar Disorder,Yes,Yes,Anxiety,No Therapy Needed,Journaling,Moderate,3,4
+124,26,Female,feeling overwhelmed,42,Depression,No,No,Depression,Psychotherapy,Breathing Exercises,Low,9,5
+125,25,Non-binary,trouble sleeping,20,Bipolar Disorder,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Meditation,Critical,5,7
+126,29,Non-binary,feeling irritable,6,Depression,Yes,Yes,Depression,No Therapy Needed,Breathing Exercises,Moderate,8,10
+127,51,Other,feeling irritable,12,None,No,No,Stress,No Therapy Needed,Breathing Exercises,Critical,6,3
+128,50,Male,feeling anxious,2,PTSD,Yes,No,Burnout,Mindfulness-Based Therapy,Journaling,Moderate,10,10
+129,65,Non-binary,feeling irritable,7,Bipolar Disorder,No,No,Stress,Psychotherapy,Take Breaks,Critical,8,5
+130,40,Non-binary,feeling overwhelmed,16,Depression,No,No,Depression,Psychotherapy,Take Breaks,Moderate,3,3
+131,41,Male,trouble sleeping,3,Anxiety,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,High,3,5
+132,54,Female,trouble sleeping,45,Bipolar Disorder,No,No,Burnout,Mindfulness-Based Therapy,Talk to a Friend,Critical,5,3
+133,52,Female,panic attacks,3,OCD,No,Yes,Stress,Cognitive Behavioral Therapy,Exercise,Moderate,10,10
+134,61,Other,excessive worry,27,None,Yes,Yes,Panic Disorder,Support Groups,Talk to a Friend,Moderate,3,7
+135,57,Female,feeling anxious,50,None,Yes,No,Anxiety,No Therapy Needed,Meditation,High,8,1
+136,39,Male,panic attacks,43,Anxiety,No,No,Stress,Cognitive Behavioral Therapy,Talk to a Friend,High,10,9
+137,44,Non-binary,excessive worry,40,Depression,Yes,No,Panic Disorder,No Therapy Needed,Meditation,High,8,9
+138,52,Female,feeling irritable,38,Bipolar Disorder,No,Yes,Depression,Mindfulness-Based Therapy,Meditation,Critical,2,5
+139,18,Other,panic attacks,33,Depression,No,No,Panic Disorder,Support Groups,Exercise,Critical,4,9
+140,52,Female,feeling sad,28,None,Yes,No,Stress,Mindfulness-Based Therapy,Journaling,High,10,10
+141,54,Male,feeling irritable,1,Depression,Yes,No,Stress,Support Groups,Exercise,Low,1,6
+142,64,Other,excessive worry,8,None,Yes,No,Depression,Support Groups,Take Breaks,Low,4,5
+143,31,Female,feeling anxious,37,Depression,Yes,No,Panic Disorder,No Therapy Needed,Take Breaks,Moderate,4,3
+144,20,Other,excessive worry,32,Anxiety,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Low,10,8
+145,18,Male,panic attacks,48,PTSD,No,No,Depression,Mindfulness-Based Therapy,Meditation,Moderate,9,4
+146,22,Non-binary,panic attacks,43,Anxiety,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Critical,3,10
+147,43,Male,lack of concentration,37,Anxiety,Yes,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,Critical,2,3
+148,31,Male,feeling anxious,4,PTSD,No,Yes,Anxiety,Cognitive Behavioral Therapy,Meditation,Low,9,6
+149,56,Male,feeling irritable,30,PTSD,No,No,Stress,Psychotherapy,Exercise,Critical,9,8
+150,44,Male,trouble sleeping,6,Bipolar Disorder,No,Yes,Anxiety,Psychotherapy,Journaling,High,1,9
+151,26,Non-binary,feeling anxious,46,Bipolar Disorder,No,Yes,Burnout,Psychotherapy,Exercise,High,6,6
+152,32,Non-binary,trouble sleeping,19,Anxiety,Yes,No,Burnout,Mindfulness-Based Therapy,Meditation,Low,10,5
+153,32,Other,feeling anxious,32,Anxiety,No,No,Burnout,Mindfulness-Based Therapy,Meditation,Low,8,2
+154,43,Female,feeling anxious,9,None,No,No,Depression,Cognitive Behavioral Therapy,Journaling,Moderate,3,2
+155,59,Non-binary,excessive worry,12,None,Yes,Yes,Panic Disorder,Support Groups,Talk to a Friend,Critical,9,9
+156,30,Non-binary,feeling anxious,11,Bipolar Disorder,No,Yes,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,Moderate,2,2
+157,68,Female,lack of concentration,46,OCD,No,Yes,Anxiety,Psychotherapy,Journaling,Moderate,6,2
+158,49,Non-binary,panic attacks,16,OCD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,High,1,3
+159,56,Male,loss of interest in activities,1,Bipolar Disorder,Yes,Yes,Anxiety,Support Groups,Breathing Exercises,High,7,3
+160,66,Male,trouble sleeping,45,None,Yes,Yes,Burnout,Mindfulness-Based Therapy,Talk to a Friend,High,3,4
+161,69,Female,panic attacks,21,None,No,No,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,High,7,7
+162,49,Other,loss of interest in activities,30,OCD,No,No,Panic Disorder,Psychotherapy,Talk to a Friend,Moderate,4,9
+163,21,Other,trouble sleeping,13,Depression,Yes,Yes,Burnout,Psychotherapy,Breathing Exercises,High,9,2
+164,47,Female,trouble sleeping,34,Depression,Yes,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Critical,5,4
+165,54,Female,loss of interest in activities,4,None,No,No,Depression,Cognitive Behavioral Therapy,Take Breaks,High,3,9
+166,40,Male,feeling anxious,28,Depression,Yes,Yes,Stress,Support Groups,Breathing Exercises,High,8,2
+167,56,Other,feeling irritable,38,PTSD,Yes,Yes,Stress,Mindfulness-Based Therapy,Journaling,High,6,10
+168,62,Non-binary,feeling sad,31,Bipolar Disorder,Yes,No,Stress,Cognitive Behavioral Therapy,Exercise,Low,2,1
+169,32,Male,panic attacks,27,Bipolar Disorder,No,Yes,Burnout,No Therapy Needed,Journaling,Critical,3,10
+170,60,Female,excessive worry,5,None,No,Yes,Anxiety,Psychotherapy,Exercise,Critical,8,8
+171,46,Other,panic attacks,25,Anxiety,No,No,Burnout,Support Groups,Journaling,Moderate,10,9
+172,53,Non-binary,excessive worry,3,OCD,No,Yes,Panic Disorder,Support Groups,Take Breaks,Moderate,7,7
+173,30,Non-binary,loss of interest in activities,33,None,No,No,Depression,Support Groups,Exercise,High,10,8
+174,49,Male,excessive worry,4,Depression,No,No,Depression,Psychotherapy,Exercise,Low,6,4
+175,24,Other,trouble sleeping,25,OCD,Yes,No,Stress,Cognitive Behavioral Therapy,Meditation,Moderate,1,4
+176,68,Other,feeling irritable,20,Anxiety,No,No,Stress,Mindfulness-Based Therapy,Exercise,Moderate,9,2
+177,39,Female,feeling irritable,34,Depression,No,No,Stress,Cognitive Behavioral Therapy,Exercise,High,3,8
+178,45,Other,trouble sleeping,26,PTSD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Meditation,High,5,2
+179,19,Other,lack of concentration,5,Depression,No,Yes,Panic Disorder,Support Groups,Talk to a Friend,Moderate,7,9
+180,59,Male,loss of interest in activities,35,PTSD,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Talk to a Friend,Moderate,7,4
+181,62,Other,lack of concentration,28,OCD,Yes,Yes,Panic Disorder,Support Groups,Meditation,Critical,3,1
+182,23,Non-binary,lack of concentration,29,PTSD,Yes,No,Panic Disorder,No Therapy Needed,Breathing Exercises,Low,4,4
+183,45,Male,panic attacks,9,OCD,Yes,No,Stress,Support Groups,Exercise,Critical,10,3
+184,45,Male,panic attacks,38,OCD,No,Yes,Depression,Support Groups,Exercise,Moderate,7,6
+185,61,Female,feeling sad,50,OCD,Yes,No,Stress,Mindfulness-Based Therapy,Meditation,Critical,8,7
+186,61,Other,excessive worry,6,OCD,No,Yes,Panic Disorder,No Therapy Needed,Meditation,Critical,2,8
+187,37,Female,trouble sleeping,19,OCD,No,Yes,Stress,Support Groups,Breathing Exercises,Moderate,9,2
+188,47,Non-binary,panic attacks,44,Depression,No,Yes,Panic Disorder,Support Groups,Take Breaks,High,7,6
+189,28,Male,loss of interest in activities,11,OCD,No,No,Burnout,No Therapy Needed,Talk to a Friend,Moderate,8,6
+190,45,Male,excessive worry,2,Depression,Yes,No,Depression,No Therapy Needed,Journaling,High,6,10
+191,42,Male,feeling sad,47,OCD,Yes,No,Burnout,Cognitive Behavioral Therapy,Take Breaks,Moderate,6,5
+192,56,Non-binary,feeling sad,44,PTSD,No,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Moderate,9,10
+193,50,Non-binary,loss of interest in activities,44,OCD,Yes,Yes,Stress,No Therapy Needed,Exercise,Moderate,4,10
+194,18,Female,lack of concentration,9,Anxiety,No,No,Anxiety,No Therapy Needed,Take Breaks,Low,5,7
+195,44,Female,feeling irritable,21,OCD,No,No,Stress,Psychotherapy,Meditation,High,9,3
+196,69,Female,loss of interest in activities,24,OCD,No,No,Burnout,No Therapy Needed,Breathing Exercises,Low,1,4
+197,30,Other,feeling overwhelmed,34,PTSD,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Moderate,4,10
+198,58,Male,loss of interest in activities,22,Bipolar Disorder,No,Yes,Panic Disorder,Support Groups,Breathing Exercises,Critical,7,9
+199,20,Male,feeling sad,3,PTSD,No,No,Stress,Support Groups,Talk to a Friend,Low,9,4
+200,56,Female,trouble sleeping,12,Anxiety,Yes,No,Panic Disorder,Support Groups,Take Breaks,High,10,3
+201,23,Male,panic attacks,28,Bipolar Disorder,Yes,No,Burnout,Support Groups,Exercise,Moderate,6,2
+202,25,Female,trouble sleeping,30,None,Yes,No,Panic Disorder,Psychotherapy,Journaling,Low,8,5
+203,44,Other,feeling sad,26,None,Yes,Yes,Burnout,No Therapy Needed,Breathing Exercises,Critical,9,4
+204,26,Other,panic attacks,48,Anxiety,No,No,Anxiety,Support Groups,Breathing Exercises,Low,10,8
+205,54,Non-binary,feeling overwhelmed,21,PTSD,Yes,No,Burnout,Cognitive Behavioral Therapy,Journaling,High,4,7
+206,50,Other,feeling irritable,28,Depression,No,No,Depression,Support Groups,Breathing Exercises,Low,1,6
+207,68,Female,excessive worry,26,Anxiety,Yes,Yes,Depression,No Therapy Needed,Breathing Exercises,Critical,8,2
+208,59,Other,feeling sad,33,Bipolar Disorder,Yes,Yes,Depression,Support Groups,Talk to a Friend,Critical,2,3
+209,61,Non-binary,feeling sad,21,Bipolar Disorder,Yes,No,Stress,Psychotherapy,Talk to a Friend,High,1,10
+210,41,Male,feeling sad,35,OCD,Yes,No,Stress,Mindfulness-Based Therapy,Journaling,Critical,7,9
+211,32,Female,panic attacks,34,None,Yes,No,Stress,Mindfulness-Based Therapy,Exercise,Moderate,10,9
+212,49,Male,feeling anxious,41,Bipolar Disorder,Yes,No,Burnout,No Therapy Needed,Take Breaks,Critical,9,5
+213,49,Non-binary,loss of interest in activities,51,Anxiety,No,No,Stress,Mindfulness-Based Therapy,Take Breaks,Moderate,9,3
+214,41,Non-binary,feeling anxious,47,Bipolar Disorder,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Low,3,2
+215,58,Non-binary,feeling overwhelmed,18,Anxiety,Yes,Yes,Depression,Cognitive Behavioral Therapy,Exercise,Moderate,6,8
+216,69,Male,feeling irritable,11,Depression,Yes,Yes,Burnout,No Therapy Needed,Journaling,Moderate,7,6
+217,66,Male,lack of concentration,23,OCD,Yes,No,Depression,No Therapy Needed,Journaling,Low,10,10
+218,66,Male,feeling overwhelmed,48,None,No,Yes,Stress,Mindfulness-Based Therapy,Talk to a Friend,Critical,9,7
+219,69,Male,lack of concentration,22,Bipolar Disorder,Yes,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Moderate,2,1
+220,29,Non-binary,lack of concentration,17,Anxiety,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Meditation,Critical,8,1
+221,56,Non-binary,feeling irritable,5,PTSD,Yes,No,Anxiety,Psychotherapy,Journaling,Low,7,10
+222,19,Female,trouble sleeping,44,None,Yes,No,Stress,Support Groups,Breathing Exercises,High,4,2
+223,20,Female,feeling anxious,11,Depression,No,Yes,Stress,Psychotherapy,Exercise,Critical,2,10
+224,66,Male,feeling sad,30,Anxiety,Yes,No,Anxiety,No Therapy Needed,Talk to a Friend,Critical,8,3
+225,54,Other,excessive worry,15,OCD,No,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,High,5,1
+226,66,Other,lack of concentration,27,OCD,Yes,Yes,Panic Disorder,Support Groups,Exercise,High,6,5
+227,34,Non-binary,feeling overwhelmed,35,Depression,No,Yes,Stress,Cognitive Behavioral Therapy,Journaling,Low,7,3
+228,66,Non-binary,trouble sleeping,33,Depression,No,Yes,Stress,No Therapy Needed,Journaling,Critical,10,1
+229,19,Non-binary,lack of concentration,20,OCD,Yes,No,Depression,No Therapy Needed,Exercise,Critical,1,8
+230,19,Female,trouble sleeping,16,Bipolar Disorder,Yes,No,Burnout,Cognitive Behavioral Therapy,Journaling,Low,8,6
+231,45,Female,trouble sleeping,34,Bipolar Disorder,No,No,Burnout,Cognitive Behavioral Therapy,Breathing Exercises,Critical,4,9
+232,40,Non-binary,lack of concentration,2,Anxiety,No,No,Depression,Cognitive Behavioral Therapy,Journaling,Moderate,9,3
+233,54,Non-binary,panic attacks,35,PTSD,Yes,Yes,Burnout,No Therapy Needed,Talk to a Friend,Moderate,1,9
+234,49,Non-binary,loss of interest in activities,40,Anxiety,No,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Moderate,2,9
+235,50,Other,feeling sad,28,PTSD,No,Yes,Burnout,Cognitive Behavioral Therapy,Meditation,Critical,6,1
+236,18,Female,feeling sad,47,Depression,No,No,Burnout,Support Groups,Journaling,Moderate,10,3
+237,36,Other,panic attacks,39,None,Yes,No,Depression,No Therapy Needed,Journaling,Moderate,1,6
+238,19,Other,feeling sad,6,Anxiety,No,No,Panic Disorder,Psychotherapy,Talk to a Friend,Low,4,8
+239,61,Non-binary,trouble sleeping,9,Anxiety,No,Yes,Burnout,Psychotherapy,Talk to a Friend,Low,8,4
+240,43,Non-binary,feeling irritable,20,PTSD,No,Yes,Burnout,Support Groups,Take Breaks,High,10,5
+241,49,Male,feeling overwhelmed,1,Depression,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Exercise,High,5,9
+242,23,Male,feeling anxious,8,Depression,Yes,Yes,Depression,Cognitive Behavioral Therapy,Exercise,High,9,6
+243,49,Other,feeling sad,23,PTSD,No,No,Panic Disorder,No Therapy Needed,Exercise,High,6,7
+244,21,Female,feeling irritable,3,Depression,Yes,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Low,1,7
+245,28,Non-binary,lack of concentration,4,OCD,No,Yes,Anxiety,No Therapy Needed,Exercise,Low,6,4
+246,34,Non-binary,loss of interest in activities,25,Bipolar Disorder,Yes,No,Depression,Psychotherapy,Exercise,Low,6,4
+247,55,Other,trouble sleeping,47,OCD,Yes,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Moderate,6,4
+248,41,Male,loss of interest in activities,38,None,No,Yes,Anxiety,Support Groups,Exercise,Moderate,8,5
+249,22,Female,feeling overwhelmed,15,Anxiety,Yes,No,Depression,Mindfulness-Based Therapy,Journaling,High,6,5
+250,69,Male,feeling overwhelmed,21,None,Yes,Yes,Stress,Support Groups,Take Breaks,Moderate,5,8
+251,51,Male,panic attacks,35,Anxiety,Yes,No,Depression,Mindfulness-Based Therapy,Talk to a Friend,Critical,2,9
+252,23,Male,excessive worry,46,Bipolar Disorder,No,Yes,Burnout,Cognitive Behavioral Therapy,Breathing Exercises,Low,4,2
+253,39,Male,panic attacks,14,Depression,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Take Breaks,High,10,7
+254,28,Non-binary,feeling irritable,36,OCD,Yes,Yes,Stress,Mindfulness-Based Therapy,Meditation,High,5,1
+255,65,Non-binary,loss of interest in activities,12,PTSD,No,Yes,Anxiety,Psychotherapy,Talk to a Friend,Critical,10,1
+256,33,Male,excessive worry,17,OCD,Yes,Yes,Stress,No Therapy Needed,Talk to a Friend,Moderate,4,4
+257,50,Female,lack of concentration,39,Bipolar Disorder,Yes,No,Burnout,Support Groups,Journaling,High,2,10
+258,26,Other,trouble sleeping,9,None,Yes,Yes,Stress,Support Groups,Take Breaks,Moderate,7,7
+259,23,Female,loss of interest in activities,35,PTSD,Yes,Yes,Depression,Support Groups,Take Breaks,Moderate,10,2
+260,33,Female,panic attacks,13,Depression,Yes,Yes,Stress,Cognitive Behavioral Therapy,Exercise,Critical,10,2
+261,46,Female,feeling anxious,15,Bipolar Disorder,No,Yes,Anxiety,Support Groups,Journaling,High,2,1
+262,20,Male,excessive worry,18,PTSD,No,Yes,Depression,No Therapy Needed,Exercise,Moderate,1,10
+263,37,Non-binary,excessive worry,51,Bipolar Disorder,Yes,No,Panic Disorder,No Therapy Needed,Exercise,Moderate,5,2
+264,53,Female,trouble sleeping,33,Bipolar Disorder,Yes,No,Burnout,Mindfulness-Based Therapy,Talk to a Friend,Critical,1,7
+265,36,Male,feeling sad,6,Depression,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Take Breaks,Critical,1,9
+266,43,Female,feeling overwhelmed,27,Anxiety,No,No,Stress,No Therapy Needed,Exercise,Moderate,1,6
+267,20,Female,feeling overwhelmed,23,PTSD,No,Yes,Depression,Psychotherapy,Meditation,Critical,6,10
+268,36,Male,feeling anxious,27,Depression,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Meditation,Moderate,9,2
+269,37,Non-binary,feeling irritable,34,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Take Breaks,High,10,10
+270,49,Non-binary,feeling irritable,46,Depression,No,Yes,Burnout,No Therapy Needed,Meditation,Low,1,10
+271,24,Other,lack of concentration,38,Anxiety,Yes,No,Depression,Psychotherapy,Talk to a Friend,Critical,5,9
+272,69,Male,loss of interest in activities,14,OCD,No,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,9,7
+273,58,Other,feeling sad,36,PTSD,No,Yes,Stress,No Therapy Needed,Breathing Exercises,Moderate,9,1
+274,50,Other,panic attacks,8,Anxiety,Yes,Yes,Anxiety,Psychotherapy,Exercise,Moderate,1,9
+275,57,Other,excessive worry,35,None,No,No,Depression,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,8,2
+276,56,Non-binary,feeling anxious,19,PTSD,Yes,No,Anxiety,Psychotherapy,Journaling,Low,1,4
+277,35,Male,feeling overwhelmed,30,Anxiety,Yes,No,Burnout,Cognitive Behavioral Therapy,Journaling,Moderate,8,9
+278,57,Other,lack of concentration,14,Bipolar Disorder,Yes,Yes,Stress,No Therapy Needed,Talk to a Friend,Critical,1,4
+279,18,Male,feeling irritable,20,PTSD,Yes,No,Stress,No Therapy Needed,Meditation,High,5,3
+280,28,Male,feeling anxious,49,PTSD,Yes,No,Depression,Support Groups,Meditation,High,8,1
+281,45,Non-binary,excessive worry,25,Depression,Yes,No,Stress,Support Groups,Journaling,Critical,6,7
+282,42,Other,panic attacks,40,Bipolar Disorder,No,Yes,Depression,Support Groups,Talk to a Friend,High,9,6
+283,67,Other,lack of concentration,24,None,No,Yes,Depression,No Therapy Needed,Talk to a Friend,Low,1,10
+284,40,Male,excessive worry,14,OCD,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Moderate,9,4
+285,48,Female,feeling overwhelmed,26,Anxiety,No,Yes,Stress,No Therapy Needed,Exercise,Moderate,1,6
+286,47,Non-binary,feeling overwhelmed,38,Depression,Yes,No,Depression,Psychotherapy,Meditation,Moderate,10,6
+287,59,Non-binary,feeling overwhelmed,23,Anxiety,No,Yes,Anxiety,No Therapy Needed,Journaling,Low,10,4
+288,52,Non-binary,feeling anxious,22,None,No,No,Panic Disorder,No Therapy Needed,Take Breaks,Low,3,6
+289,24,Non-binary,feeling anxious,48,None,No,No,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Low,1,10
+290,33,Other,feeling irritable,19,PTSD,Yes,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Critical,3,8
+291,43,Other,feeling irritable,46,None,No,No,Depression,Cognitive Behavioral Therapy,Exercise,Low,2,3
+292,65,Female,panic attacks,51,Anxiety,Yes,Yes,Burnout,No Therapy Needed,Talk to a Friend,High,2,4
+293,69,Non-binary,lack of concentration,3,Bipolar Disorder,No,Yes,Burnout,Mindfulness-Based Therapy,Journaling,Critical,9,10
+294,66,Non-binary,trouble sleeping,42,Bipolar Disorder,Yes,Yes,Burnout,Psychotherapy,Meditation,Critical,8,1
+295,19,Male,trouble sleeping,19,PTSD,Yes,Yes,Anxiety,Psychotherapy,Breathing Exercises,Critical,1,4
+296,18,Other,excessive worry,9,OCD,No,Yes,Depression,Mindfulness-Based Therapy,Exercise,Low,4,10
+297,65,Non-binary,feeling overwhelmed,28,Anxiety,Yes,No,Stress,Mindfulness-Based Therapy,Exercise,Critical,1,10
+298,29,Female,lack of concentration,20,Anxiety,Yes,Yes,Anxiety,Psychotherapy,Take Breaks,Low,1,9
+299,22,Female,feeling anxious,45,None,No,Yes,Anxiety,Support Groups,Meditation,Low,4,8
+300,54,Other,loss of interest in activities,7,Anxiety,No,Yes,Depression,Cognitive Behavioral Therapy,Breathing Exercises,Critical,2,4
+301,49,Female,feeling sad,14,Depression,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Exercise,Moderate,3,7
+302,26,Female,panic attacks,9,OCD,Yes,No,Anxiety,Psychotherapy,Journaling,Moderate,9,10
+303,58,Other,feeling overwhelmed,19,None,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Exercise,Critical,2,3
+304,52,Non-binary,feeling overwhelmed,47,Depression,Yes,No,Panic Disorder,Support Groups,Breathing Exercises,Moderate,4,9
+305,36,Non-binary,feeling overwhelmed,14,PTSD,No,No,Burnout,Psychotherapy,Talk to a Friend,High,1,10
+306,65,Female,feeling anxious,38,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Talk to a Friend,High,2,4
+307,33,Female,feeling anxious,36,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Take Breaks,Low,5,2
+308,20,Non-binary,feeling sad,40,Bipolar Disorder,Yes,No,Depression,Mindfulness-Based Therapy,Meditation,Moderate,10,10
+309,37,Other,lack of concentration,17,PTSD,Yes,No,Burnout,No Therapy Needed,Breathing Exercises,High,1,5
+310,41,Female,feeling overwhelmed,30,Anxiety,Yes,No,Depression,Psychotherapy,Take Breaks,Critical,7,2
+311,50,Male,trouble sleeping,9,Depression,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Exercise,Moderate,4,10
+312,41,Other,feeling irritable,33,Bipolar Disorder,Yes,Yes,Panic Disorder,Support Groups,Exercise,High,6,6
+313,69,Female,trouble sleeping,25,None,No,No,Depression,No Therapy Needed,Talk to a Friend,High,8,10
+314,28,Female,excessive worry,14,Depression,No,Yes,Stress,Support Groups,Take Breaks,Critical,6,1
+315,66,Male,trouble sleeping,11,None,No,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Low,2,6
+316,25,Male,excessive worry,35,Depression,Yes,No,Panic Disorder,No Therapy Needed,Journaling,Critical,1,4
+317,53,Non-binary,loss of interest in activities,41,Depression,Yes,Yes,Burnout,Support Groups,Talk to a Friend,Low,8,3
+318,55,Other,feeling irritable,14,PTSD,No,Yes,Burnout,Support Groups,Journaling,High,8,2
+319,57,Other,trouble sleeping,30,Bipolar Disorder,Yes,Yes,Panic Disorder,No Therapy Needed,Exercise,Low,9,7
+320,37,Non-binary,loss of interest in activities,41,Bipolar Disorder,No,No,Anxiety,Cognitive Behavioral Therapy,Take Breaks,High,6,9
+321,52,Other,panic attacks,4,Depression,Yes,No,Anxiety,Support Groups,Journaling,High,1,3
+322,65,Other,lack of concentration,4,Anxiety,Yes,No,Burnout,Psychotherapy,Take Breaks,Moderate,9,6
+323,42,Other,loss of interest in activities,28,Anxiety,No,Yes,Burnout,No Therapy Needed,Take Breaks,Low,3,9
+324,52,Other,lack of concentration,8,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,6,2
+325,42,Other,trouble sleeping,2,None,No,Yes,Anxiety,Mindfulness-Based Therapy,Meditation,Low,10,7
+326,46,Male,loss of interest in activities,41,PTSD,No,Yes,Burnout,Cognitive Behavioral Therapy,Talk to a Friend,Critical,10,5
+327,35,Other,feeling irritable,46,Depression,No,Yes,Anxiety,Psychotherapy,Journaling,Moderate,9,5
+328,63,Male,trouble sleeping,22,None,Yes,No,Burnout,Support Groups,Exercise,Moderate,3,7
+329,35,Other,feeling overwhelmed,41,None,Yes,No,Depression,Mindfulness-Based Therapy,Take Breaks,Moderate,5,9
+330,19,Non-binary,feeling anxious,16,OCD,Yes,No,Stress,Cognitive Behavioral Therapy,Breathing Exercises,Critical,5,4
+331,52,Female,loss of interest in activities,29,Depression,No,No,Depression,Psychotherapy,Journaling,Low,10,9
+332,33,Male,feeling irritable,49,PTSD,No,Yes,Burnout,Psychotherapy,Talk to a Friend,Low,7,10
+333,58,Other,panic attacks,48,None,No,No,Stress,Cognitive Behavioral Therapy,Take Breaks,Low,4,9
+334,53,Non-binary,feeling overwhelmed,30,PTSD,No,Yes,Stress,Cognitive Behavioral Therapy,Meditation,Moderate,4,4
+335,50,Female,panic attacks,12,Bipolar Disorder,No,No,Burnout,Support Groups,Exercise,Moderate,7,3
+336,21,Male,trouble sleeping,35,PTSD,No,No,Burnout,Cognitive Behavioral Therapy,Meditation,High,9,2
+337,50,Female,feeling anxious,11,Anxiety,Yes,No,Anxiety,Support Groups,Breathing Exercises,Critical,4,9
+338,31,Non-binary,loss of interest in activities,46,Anxiety,Yes,Yes,Burnout,Support Groups,Journaling,Critical,4,2
+339,38,Male,loss of interest in activities,50,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Take Breaks,Moderate,6,6
+340,65,Female,trouble sleeping,21,Anxiety,Yes,Yes,Burnout,Psychotherapy,Journaling,High,6,5
+341,37,Other,trouble sleeping,21,Bipolar Disorder,Yes,Yes,Panic Disorder,Psychotherapy,Talk to a Friend,Low,7,5
+342,25,Male,feeling anxious,5,Depression,No,Yes,Burnout,Psychotherapy,Journaling,Moderate,1,4
+343,24,Female,feeling irritable,48,Anxiety,No,No,Anxiety,No Therapy Needed,Exercise,Critical,3,6
+344,20,Non-binary,feeling irritable,20,Anxiety,No,Yes,Panic Disorder,Support Groups,Breathing Exercises,Critical,9,5
+345,34,Non-binary,feeling anxious,37,PTSD,No,Yes,Depression,Support Groups,Meditation,Critical,6,4
+346,50,Male,feeling irritable,3,Bipolar Disorder,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Low,6,9
+347,65,Female,excessive worry,44,Depression,No,Yes,Anxiety,No Therapy Needed,Take Breaks,Critical,5,6
+348,29,Male,lack of concentration,33,PTSD,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Journaling,Low,3,10
+349,68,Male,feeling anxious,9,PTSD,No,Yes,Burnout,No Therapy Needed,Take Breaks,Low,5,10
+350,39,Female,feeling anxious,9,OCD,No,No,Burnout,Cognitive Behavioral Therapy,Meditation,Low,1,10
+351,39,Female,feeling sad,4,Bipolar Disorder,No,No,Anxiety,Mindfulness-Based Therapy,Take Breaks,Moderate,3,3
+352,63,Other,feeling overwhelmed,35,Depression,No,No,Stress,Psychotherapy,Talk to a Friend,Low,4,10
+353,47,Female,feeling overwhelmed,17,Bipolar Disorder,Yes,Yes,Burnout,Psychotherapy,Breathing Exercises,High,5,6
+354,55,Non-binary,excessive worry,34,Depression,Yes,No,Depression,Support Groups,Meditation,Critical,10,1
+355,55,Male,trouble sleeping,24,Bipolar Disorder,No,Yes,Anxiety,Mindfulness-Based Therapy,Meditation,Moderate,9,5
+356,62,Male,trouble sleeping,32,PTSD,Yes,Yes,Panic Disorder,Psychotherapy,Meditation,Critical,4,10
+357,68,Non-binary,panic attacks,1,PTSD,Yes,Yes,Panic Disorder,Support Groups,Exercise,Low,3,6
+358,25,Female,excessive worry,8,None,No,Yes,Depression,Mindfulness-Based Therapy,Breathing Exercises,Moderate,10,8
+359,44,Non-binary,feeling anxious,45,Anxiety,No,Yes,Burnout,Psychotherapy,Take Breaks,High,1,9
+360,44,Non-binary,excessive worry,23,OCD,No,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Low,10,3
+361,51,Other,excessive worry,47,Bipolar Disorder,No,No,Depression,No Therapy Needed,Breathing Exercises,Critical,6,2
+362,38,Non-binary,excessive worry,40,OCD,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,High,7,4
+363,47,Male,feeling overwhelmed,12,None,Yes,No,Anxiety,Support Groups,Talk to a Friend,Low,10,8
+364,50,Non-binary,excessive worry,12,Anxiety,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,High,8,8
+365,45,Male,lack of concentration,46,Bipolar Disorder,No,No,Anxiety,Support Groups,Talk to a Friend,Low,1,3
+366,64,Male,trouble sleeping,47,Depression,No,No,Stress,Mindfulness-Based Therapy,Journaling,Moderate,4,4
+367,50,Male,panic attacks,15,Anxiety,Yes,No,Anxiety,Support Groups,Meditation,Low,5,3
+368,22,Female,lack of concentration,41,PTSD,No,No,Stress,Psychotherapy,Journaling,Moderate,2,10
+369,65,Other,panic attacks,19,None,No,No,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Low,1,2
+370,36,Male,feeling sad,26,Anxiety,No,Yes,Stress,Psychotherapy,Journaling,Low,8,4
+371,21,Male,panic attacks,29,Anxiety,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Critical,6,6
+372,52,Female,trouble sleeping,22,PTSD,No,No,Burnout,Psychotherapy,Breathing Exercises,High,5,5
+373,66,Male,trouble sleeping,40,Bipolar Disorder,No,Yes,Stress,Psychotherapy,Breathing Exercises,High,9,3
+374,34,Non-binary,excessive worry,21,Depression,No,No,Stress,Mindfulness-Based Therapy,Take Breaks,High,2,2
+375,61,Non-binary,loss of interest in activities,51,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Journaling,Low,10,9
+376,45,Other,feeling sad,38,Depression,No,No,Stress,Support Groups,Take Breaks,Low,8,1
+377,47,Male,feeling anxious,20,Bipolar Disorder,No,No,Depression,Support Groups,Meditation,Low,10,9
+378,46,Female,feeling irritable,29,Anxiety,No,No,Panic Disorder,Support Groups,Journaling,Moderate,9,1
+379,63,Non-binary,panic attacks,51,Depression,Yes,Yes,Depression,Cognitive Behavioral Therapy,Meditation,Moderate,1,7
+380,23,Female,loss of interest in activities,4,None,No,Yes,Panic Disorder,Support Groups,Meditation,Critical,7,6
+381,52,Female,excessive worry,7,None,No,No,Stress,Support Groups,Breathing Exercises,Low,8,7
+382,58,Non-binary,feeling overwhelmed,28,PTSD,No,No,Depression,Mindfulness-Based Therapy,Journaling,High,3,3
+383,54,Female,feeling anxious,28,Bipolar Disorder,Yes,Yes,Stress,Psychotherapy,Meditation,High,4,3
+384,41,Non-binary,loss of interest in activities,4,PTSD,Yes,Yes,Panic Disorder,Support Groups,Talk to a Friend,Critical,3,1
+385,46,Female,feeling overwhelmed,22,PTSD,No,Yes,Stress,No Therapy Needed,Meditation,High,7,4
+386,66,Non-binary,feeling sad,12,OCD,Yes,Yes,Depression,Support Groups,Talk to a Friend,Critical,9,2
+387,63,Male,excessive worry,45,PTSD,Yes,Yes,Depression,Cognitive Behavioral Therapy,Journaling,Low,3,10
+388,48,Other,feeling anxious,3,OCD,Yes,No,Stress,Cognitive Behavioral Therapy,Take Breaks,High,6,8
+389,52,Non-binary,feeling anxious,22,None,No,Yes,Anxiety,Cognitive Behavioral Therapy,Journaling,Low,8,3
+390,50,Non-binary,feeling anxious,44,None,No,No,Panic Disorder,Support Groups,Take Breaks,Moderate,6,7
+391,69,Other,feeling sad,2,PTSD,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,High,2,7
+392,38,Non-binary,panic attacks,24,None,Yes,Yes,Stress,No Therapy Needed,Journaling,Moderate,7,9
+393,49,Non-binary,feeling sad,34,Bipolar Disorder,Yes,Yes,Anxiety,Support Groups,Meditation,High,2,6
+394,40,Female,feeling irritable,27,OCD,No,No,Depression,Mindfulness-Based Therapy,Exercise,Low,2,1
+395,50,Other,trouble sleeping,41,OCD,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,Critical,2,8
+396,20,Male,excessive worry,1,PTSD,Yes,No,Burnout,Support Groups,Meditation,Low,1,1
+397,35,Non-binary,feeling sad,8,None,Yes,Yes,Stress,Support Groups,Breathing Exercises,Low,1,3
+398,42,Other,feeling overwhelmed,23,Depression,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Low,7,5
+399,59,Female,feeling irritable,38,OCD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Meditation,High,5,8
+400,48,Male,trouble sleeping,6,PTSD,No,No,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Critical,3,9
+401,20,Other,panic attacks,22,PTSD,Yes,Yes,Depression,Support Groups,Take Breaks,Moderate,1,7
+402,57,Male,feeling overwhelmed,25,Bipolar Disorder,No,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Low,10,9
+403,63,Male,excessive worry,18,Anxiety,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Meditation,High,6,3
+404,41,Male,feeling overwhelmed,17,Anxiety,Yes,No,Depression,Support Groups,Exercise,Moderate,1,5
+405,67,Non-binary,trouble sleeping,12,OCD,Yes,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Low,9,10
+406,49,Non-binary,feeling overwhelmed,6,Bipolar Disorder,Yes,No,Stress,Psychotherapy,Journaling,Moderate,2,8
+407,64,Female,lack of concentration,26,Bipolar Disorder,Yes,No,Anxiety,Support Groups,Meditation,Low,1,1
+408,39,Female,loss of interest in activities,27,Bipolar Disorder,No,No,Stress,Psychotherapy,Meditation,Moderate,7,8
+409,40,Other,panic attacks,8,OCD,Yes,No,Anxiety,Mindfulness-Based Therapy,Take Breaks,Moderate,6,7
+410,19,Female,trouble sleeping,19,Anxiety,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Critical,6,1
+411,44,Male,feeling overwhelmed,42,Bipolar Disorder,Yes,No,Stress,No Therapy Needed,Breathing Exercises,Critical,5,10
+412,59,Male,loss of interest in activities,1,None,No,Yes,Stress,Mindfulness-Based Therapy,Breathing Exercises,Low,4,10
+413,19,Non-binary,loss of interest in activities,29,PTSD,No,No,Burnout,Psychotherapy,Breathing Exercises,High,4,6
+414,43,Male,feeling overwhelmed,45,PTSD,No,No,Stress,Mindfulness-Based Therapy,Journaling,Critical,3,1
+415,34,Other,excessive worry,49,Depression,No,No,Anxiety,Support Groups,Talk to a Friend,Moderate,10,2
+416,57,Male,lack of concentration,35,Depression,Yes,Yes,Burnout,Mindfulness-Based Therapy,Talk to a Friend,Critical,8,5
+417,50,Male,feeling sad,40,OCD,Yes,Yes,Stress,No Therapy Needed,Breathing Exercises,Critical,7,2
+418,26,Other,lack of concentration,14,OCD,Yes,Yes,Stress,Mindfulness-Based Therapy,Breathing Exercises,Low,9,10
+419,60,Female,feeling overwhelmed,35,PTSD,No,No,Panic Disorder,Psychotherapy,Take Breaks,Critical,1,1
+420,65,Female,panic attacks,48,None,Yes,Yes,Stress,Psychotherapy,Exercise,Critical,7,6
+421,56,Other,feeling sad,45,Anxiety,Yes,Yes,Depression,Mindfulness-Based Therapy,Exercise,Moderate,10,8
+422,46,Non-binary,trouble sleeping,20,Anxiety,No,No,Burnout,Psychotherapy,Meditation,Critical,4,8
+423,59,Male,lack of concentration,49,OCD,No,No,Depression,Psychotherapy,Meditation,Moderate,7,8
+424,43,Other,feeling overwhelmed,13,None,No,Yes,Burnout,No Therapy Needed,Talk to a Friend,Critical,1,6
+425,52,Male,lack of concentration,38,OCD,Yes,No,Panic Disorder,Support Groups,Talk to a Friend,Critical,5,3
+426,67,Non-binary,feeling sad,49,Anxiety,Yes,No,Stress,No Therapy Needed,Journaling,High,3,1
+427,42,Male,feeling irritable,46,OCD,No,No,Stress,Cognitive Behavioral Therapy,Journaling,Critical,5,2
+428,41,Other,lack of concentration,49,Bipolar Disorder,Yes,No,Stress,No Therapy Needed,Exercise,Moderate,4,5
+429,30,Male,trouble sleeping,8,OCD,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,Moderate,2,10
+430,24,Female,trouble sleeping,43,PTSD,No,No,Stress,Support Groups,Exercise,Low,4,5
+431,53,Non-binary,feeling anxious,20,OCD,Yes,Yes,Depression,Mindfulness-Based Therapy,Exercise,Low,3,10
+432,62,Non-binary,lack of concentration,33,PTSD,No,Yes,Stress,Cognitive Behavioral Therapy,Meditation,High,1,1
+433,37,Non-binary,excessive worry,26,None,No,Yes,Panic Disorder,Support Groups,Journaling,Moderate,10,1
+434,18,Other,loss of interest in activities,39,Anxiety,No,Yes,Depression,Psychotherapy,Take Breaks,Moderate,8,9
+435,25,Non-binary,loss of interest in activities,21,Depression,Yes,No,Stress,No Therapy Needed,Take Breaks,Moderate,5,2
+436,63,Female,loss of interest in activities,49,Depression,No,No,Stress,Mindfulness-Based Therapy,Take Breaks,High,4,7
+437,33,Other,feeling irritable,42,Anxiety,No,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Moderate,10,10
+438,31,Female,feeling anxious,43,Depression,No,Yes,Burnout,Psychotherapy,Breathing Exercises,Low,5,4
+439,29,Male,feeling irritable,41,OCD,No,Yes,Depression,No Therapy Needed,Breathing Exercises,High,4,7
+440,68,Male,lack of concentration,9,None,No,Yes,Anxiety,Psychotherapy,Breathing Exercises,Low,3,8
+441,40,Male,lack of concentration,24,None,No,No,Panic Disorder,No Therapy Needed,Talk to a Friend,Low,5,5
+442,32,Male,lack of concentration,37,Anxiety,No,Yes,Burnout,Support Groups,Journaling,High,4,1
+443,45,Female,panic attacks,49,Depression,Yes,No,Depression,Psychotherapy,Journaling,Critical,1,4
+444,51,Other,loss of interest in activities,41,OCD,Yes,No,Stress,Psychotherapy,Talk to a Friend,Critical,3,10
+445,19,Other,panic attacks,17,None,No,No,Depression,Psychotherapy,Exercise,Low,10,3
+446,49,Non-binary,feeling anxious,24,None,Yes,No,Stress,Support Groups,Take Breaks,Critical,10,10
+447,40,Female,feeling irritable,21,Bipolar Disorder,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,8,5
+448,39,Male,loss of interest in activities,51,Bipolar Disorder,No,No,Stress,No Therapy Needed,Take Breaks,High,7,10
+449,68,Female,panic attacks,39,None,Yes,Yes,Panic Disorder,Psychotherapy,Breathing Exercises,Low,2,10
+450,42,Non-binary,panic attacks,41,Anxiety,No,No,Stress,Support Groups,Take Breaks,Moderate,1,6
+451,39,Non-binary,feeling overwhelmed,39,PTSD,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Exercise,Critical,3,2
+452,39,Female,panic attacks,13,PTSD,No,Yes,Burnout,No Therapy Needed,Take Breaks,Moderate,5,7
+453,66,Female,excessive worry,11,OCD,No,No,Burnout,Support Groups,Take Breaks,Critical,10,3
+454,69,Female,excessive worry,46,None,No,No,Depression,No Therapy Needed,Meditation,Low,1,1
+455,59,Other,feeling irritable,19,None,Yes,No,Panic Disorder,Psychotherapy,Take Breaks,Moderate,3,10
+456,23,Male,excessive worry,11,None,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Meditation,High,3,3
+457,32,Female,feeling irritable,13,Anxiety,Yes,No,Anxiety,Support Groups,Journaling,Low,5,9
+458,60,Female,feeling irritable,46,Bipolar Disorder,No,No,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,Moderate,3,10
+459,54,Female,feeling anxious,45,None,No,Yes,Anxiety,Psychotherapy,Take Breaks,Moderate,9,6
+460,50,Non-binary,feeling overwhelmed,1,None,No,No,Stress,Cognitive Behavioral Therapy,Journaling,Critical,1,6
+461,25,Non-binary,lack of concentration,40,Depression,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Meditation,Low,4,4
+462,61,Other,trouble sleeping,44,Anxiety,No,No,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,Low,10,8
+463,61,Male,feeling irritable,19,OCD,No,Yes,Stress,Cognitive Behavioral Therapy,Take Breaks,Low,10,5
+464,22,Other,feeling sad,12,None,No,Yes,Burnout,No Therapy Needed,Exercise,Low,4,7
+465,56,Male,lack of concentration,8,Depression,No,No,Depression,Support Groups,Journaling,Critical,1,9
+466,21,Non-binary,loss of interest in activities,8,PTSD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,High,2,5
+467,23,Non-binary,excessive worry,45,OCD,No,No,Burnout,Support Groups,Breathing Exercises,Low,1,5
+468,62,Non-binary,trouble sleeping,12,None,Yes,No,Panic Disorder,Support Groups,Exercise,Critical,6,4
+469,49,Other,feeling sad,48,None,No,Yes,Depression,Psychotherapy,Meditation,High,3,6
+470,69,Female,lack of concentration,33,Depression,Yes,No,Burnout,Psychotherapy,Breathing Exercises,High,7,2
+471,47,Female,feeling anxious,45,Anxiety,Yes,Yes,Depression,Mindfulness-Based Therapy,Breathing Exercises,Critical,5,3
+472,64,Non-binary,loss of interest in activities,26,None,No,Yes,Anxiety,Psychotherapy,Talk to a Friend,Low,9,1
+473,52,Female,trouble sleeping,39,PTSD,No,Yes,Panic Disorder,Psychotherapy,Journaling,High,7,2
+474,57,Female,feeling overwhelmed,28,None,Yes,Yes,Depression,Psychotherapy,Meditation,Low,4,2
+475,69,Other,feeling anxious,5,PTSD,No,Yes,Burnout,Support Groups,Take Breaks,Low,5,8
+476,33,Male,feeling sad,8,OCD,No,Yes,Anxiety,Mindfulness-Based Therapy,Journaling,Moderate,5,8
+477,30,Non-binary,trouble sleeping,25,OCD,No,Yes,Anxiety,Support Groups,Meditation,Low,5,2
+478,67,Non-binary,feeling anxious,27,Bipolar Disorder,Yes,Yes,Burnout,No Therapy Needed,Breathing Exercises,Moderate,10,6
+479,59,Other,loss of interest in activities,46,Bipolar Disorder,No,No,Burnout,Support Groups,Talk to a Friend,High,9,5
+480,47,Other,feeling overwhelmed,23,PTSD,No,No,Depression,No Therapy Needed,Journaling,Critical,10,3
+481,36,Female,feeling anxious,30,Anxiety,No,Yes,Stress,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,3,5
+482,34,Non-binary,panic attacks,45,None,Yes,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Critical,6,5
+483,36,Male,feeling overwhelmed,47,None,No,No,Depression,No Therapy Needed,Journaling,High,8,5
+484,45,Other,feeling sad,23,Bipolar Disorder,Yes,No,Burnout,No Therapy Needed,Take Breaks,Low,9,3
+485,43,Male,loss of interest in activities,49,PTSD,No,No,Depression,Support Groups,Journaling,High,7,3
+486,54,Male,excessive worry,47,None,Yes,No,Burnout,No Therapy Needed,Breathing Exercises,Critical,3,4
+487,43,Non-binary,excessive worry,20,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,High,1,7
+488,40,Non-binary,excessive worry,18,Anxiety,No,Yes,Burnout,Cognitive Behavioral Therapy,Take Breaks,Low,4,2
+489,26,Other,trouble sleeping,18,Depression,Yes,No,Burnout,Cognitive Behavioral Therapy,Talk to a Friend,High,6,10
+490,29,Non-binary,feeling sad,2,Bipolar Disorder,Yes,No,Burnout,No Therapy Needed,Talk to a Friend,Low,3,4
+491,18,Non-binary,loss of interest in activities,4,Bipolar Disorder,Yes,No,Stress,Psychotherapy,Breathing Exercises,Moderate,1,4
+492,18,Non-binary,feeling overwhelmed,30,Depression,No,No,Burnout,Psychotherapy,Meditation,Critical,6,1
+493,64,Male,trouble sleeping,33,None,No,Yes,Anxiety,No Therapy Needed,Breathing Exercises,Low,1,10
+494,51,Other,feeling sad,36,Anxiety,No,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Low,9,8
+495,49,Female,panic attacks,18,Anxiety,No,Yes,Depression,Psychotherapy,Exercise,High,1,1
+496,65,Male,loss of interest in activities,37,Bipolar Disorder,Yes,Yes,Stress,No Therapy Needed,Exercise,Moderate,6,8
+497,42,Non-binary,excessive worry,19,Anxiety,No,No,Depression,Mindfulness-Based Therapy,Journaling,Low,1,7
+498,57,Male,feeling anxious,47,OCD,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Moderate,7,9
+499,62,Non-binary,loss of interest in activities,28,Depression,No,Yes,Anxiety,Support Groups,Journaling,Moderate,3,8
+500,18,Non-binary,feeling irritable,40,None,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Exercise,High,6,5
+501,33,Male,feeling sad,20,OCD,No,Yes,Burnout,Psychotherapy,Talk to a Friend,Low,7,8
+502,56,Other,lack of concentration,49,Depression,No,No,Anxiety,Psychotherapy,Journaling,High,1,10
+503,22,Non-binary,panic attacks,33,PTSD,No,Yes,Depression,No Therapy Needed,Breathing Exercises,Critical,1,3
+504,39,Other,loss of interest in activities,12,Bipolar Disorder,Yes,No,Depression,No Therapy Needed,Take Breaks,Critical,5,10
+505,46,Female,lack of concentration,51,Anxiety,No,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Low,6,7
+506,20,Non-binary,feeling irritable,15,PTSD,No,No,Burnout,Cognitive Behavioral Therapy,Take Breaks,Moderate,9,4
+507,29,Other,feeling overwhelmed,41,Anxiety,No,No,Panic Disorder,Support Groups,Talk to a Friend,Low,1,5
+508,43,Other,feeling anxious,39,OCD,No,Yes,Stress,Cognitive Behavioral Therapy,Journaling,Low,4,9
+509,33,Female,lack of concentration,2,None,Yes,Yes,Depression,Mindfulness-Based Therapy,Take Breaks,Critical,10,7
+510,68,Other,feeling sad,29,None,Yes,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Critical,8,4
+511,54,Other,excessive worry,41,None,Yes,Yes,Depression,Cognitive Behavioral Therapy,Journaling,Moderate,10,6
+512,39,Female,feeling irritable,10,Anxiety,Yes,No,Burnout,Support Groups,Journaling,Moderate,9,10
+513,46,Non-binary,feeling anxious,2,PTSD,Yes,No,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Low,3,7
+514,31,Other,panic attacks,51,None,Yes,Yes,Depression,No Therapy Needed,Exercise,High,2,10
+515,45,Other,excessive worry,11,PTSD,No,Yes,Anxiety,Psychotherapy,Take Breaks,Low,4,9
+516,22,Other,loss of interest in activities,13,Anxiety,Yes,No,Depression,No Therapy Needed,Breathing Exercises,Moderate,2,4
+517,64,Male,lack of concentration,10,OCD,Yes,Yes,Stress,Psychotherapy,Talk to a Friend,High,1,10
+518,66,Female,feeling anxious,14,PTSD,No,No,Panic Disorder,Mindfulness-Based Therapy,Meditation,Critical,3,3
+519,47,Male,trouble sleeping,18,OCD,Yes,Yes,Anxiety,Support Groups,Breathing Exercises,Moderate,7,8
+520,63,Female,feeling overwhelmed,51,Anxiety,No,No,Burnout,Cognitive Behavioral Therapy,Journaling,Moderate,1,1
+521,69,Non-binary,feeling overwhelmed,9,Anxiety,No,No,Stress,Support Groups,Journaling,High,2,9
+522,22,Non-binary,feeling irritable,39,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,1,1
+523,29,Other,panic attacks,28,Anxiety,No,No,Anxiety,No Therapy Needed,Meditation,Moderate,8,2
+524,33,Female,feeling irritable,3,Anxiety,Yes,No,Depression,No Therapy Needed,Breathing Exercises,Moderate,5,8
+525,43,Non-binary,trouble sleeping,20,Depression,Yes,Yes,Depression,Cognitive Behavioral Therapy,Meditation,Moderate,8,9
+526,43,Female,feeling sad,6,None,No,No,Depression,Support Groups,Meditation,Moderate,3,7
+527,65,Non-binary,panic attacks,27,Bipolar Disorder,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Talk to a Friend,Moderate,7,3
+528,38,Male,feeling sad,2,Bipolar Disorder,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,Moderate,8,7
+529,56,Non-binary,panic attacks,29,Bipolar Disorder,No,No,Burnout,No Therapy Needed,Journaling,Moderate,6,6
+530,53,Male,panic attacks,38,Depression,No,Yes,Anxiety,Mindfulness-Based Therapy,Journaling,Critical,7,2
+531,50,Non-binary,trouble sleeping,3,OCD,Yes,Yes,Stress,No Therapy Needed,Meditation,Moderate,2,3
+532,47,Other,loss of interest in activities,16,Anxiety,Yes,Yes,Stress,No Therapy Needed,Journaling,Critical,8,10
+533,54,Male,trouble sleeping,30,None,No,Yes,Stress,Psychotherapy,Exercise,Critical,5,10
+534,40,Non-binary,panic attacks,40,PTSD,Yes,No,Depression,Mindfulness-Based Therapy,Meditation,Low,7,5
+535,27,Other,feeling anxious,2,OCD,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,1,10
+536,22,Male,feeling sad,17,Anxiety,Yes,No,Anxiety,Psychotherapy,Exercise,Critical,5,4
+537,53,Other,trouble sleeping,41,Depression,Yes,Yes,Depression,Support Groups,Talk to a Friend,Critical,1,2
+538,51,Female,loss of interest in activities,12,Anxiety,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Journaling,Moderate,8,4
+539,69,Female,lack of concentration,35,Anxiety,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Exercise,Low,4,8
+540,48,Male,feeling irritable,43,Depression,Yes,No,Anxiety,Psychotherapy,Breathing Exercises,High,4,5
+541,27,Non-binary,panic attacks,1,Bipolar Disorder,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Low,2,5
+542,36,Male,lack of concentration,45,Bipolar Disorder,Yes,No,Anxiety,Support Groups,Breathing Exercises,Critical,5,10
+543,49,Other,feeling overwhelmed,15,None,No,No,Depression,Mindfulness-Based Therapy,Exercise,Critical,1,3
+544,18,Non-binary,excessive worry,26,None,No,No,Burnout,No Therapy Needed,Meditation,Moderate,9,8
+545,22,Female,loss of interest in activities,37,Bipolar Disorder,No,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Moderate,5,6
+546,62,Non-binary,excessive worry,21,OCD,Yes,No,Burnout,Psychotherapy,Journaling,Low,6,2
+547,21,Female,loss of interest in activities,49,PTSD,Yes,No,Depression,No Therapy Needed,Breathing Exercises,Moderate,2,2
+548,33,Non-binary,feeling anxious,31,Anxiety,No,No,Burnout,Support Groups,Meditation,High,10,9
+549,41,Non-binary,feeling irritable,25,PTSD,Yes,No,Stress,No Therapy Needed,Meditation,High,10,7
+550,33,Non-binary,lack of concentration,23,Anxiety,No,Yes,Burnout,No Therapy Needed,Breathing Exercises,Moderate,1,10
+551,19,Other,feeling sad,24,Bipolar Disorder,Yes,No,Anxiety,Support Groups,Talk to a Friend,High,4,9
+552,66,Other,loss of interest in activities,38,None,Yes,Yes,Depression,No Therapy Needed,Meditation,High,7,6
+553,45,Male,feeling sad,28,OCD,No,No,Anxiety,Psychotherapy,Take Breaks,Low,6,5
+554,49,Male,feeling irritable,21,None,No,No,Stress,Mindfulness-Based Therapy,Exercise,High,10,1
+555,44,Female,panic attacks,43,PTSD,No,No,Anxiety,No Therapy Needed,Journaling,Critical,1,6
+556,37,Other,feeling overwhelmed,18,None,Yes,No,Anxiety,Psychotherapy,Meditation,Critical,1,6
+557,41,Female,lack of concentration,36,Bipolar Disorder,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Low,8,3
+558,29,Male,feeling irritable,35,OCD,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,Moderate,4,3
+559,67,Female,feeling irritable,45,PTSD,Yes,No,Stress,No Therapy Needed,Meditation,Low,5,3
+560,52,Male,feeling anxious,9,OCD,Yes,Yes,Anxiety,Psychotherapy,Talk to a Friend,Moderate,7,3
+561,50,Other,excessive worry,38,Anxiety,No,No,Anxiety,No Therapy Needed,Exercise,Moderate,8,7
+562,50,Non-binary,feeling overwhelmed,30,None,No,No,Anxiety,Support Groups,Journaling,Moderate,10,10
+563,68,Other,lack of concentration,44,OCD,No,Yes,Depression,Mindfulness-Based Therapy,Meditation,Moderate,7,2
+564,60,Female,panic attacks,34,Depression,Yes,Yes,Panic Disorder,No Therapy Needed,Journaling,Moderate,2,10
+565,54,Female,panic attacks,32,None,Yes,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,Low,4,10
+566,29,Other,trouble sleeping,3,Anxiety,No,No,Panic Disorder,Psychotherapy,Take Breaks,Moderate,10,2
+567,20,Other,feeling irritable,3,OCD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,High,1,3
+568,18,Male,loss of interest in activities,28,PTSD,Yes,No,Stress,No Therapy Needed,Meditation,High,10,10
+569,50,Female,feeling anxious,44,Anxiety,No,Yes,Burnout,No Therapy Needed,Meditation,Moderate,9,7
+570,57,Female,feeling overwhelmed,15,Depression,No,No,Burnout,Mindfulness-Based Therapy,Breathing Exercises,High,3,3
+571,27,Other,panic attacks,41,OCD,No,No,Anxiety,Psychotherapy,Talk to a Friend,Critical,3,7
+572,60,Non-binary,lack of concentration,23,Bipolar Disorder,Yes,Yes,Depression,Support Groups,Meditation,Low,10,9
+573,61,Female,trouble sleeping,40,None,Yes,Yes,Stress,Psychotherapy,Take Breaks,Low,9,10
+574,46,Non-binary,lack of concentration,11,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Journaling,Moderate,10,4
+575,30,Other,feeling anxious,48,Bipolar Disorder,Yes,No,Anxiety,Support Groups,Exercise,Moderate,3,7
+576,29,Other,loss of interest in activities,32,OCD,Yes,No,Stress,Psychotherapy,Journaling,Critical,8,9
+577,48,Male,trouble sleeping,36,OCD,No,No,Stress,Cognitive Behavioral Therapy,Talk to a Friend,Moderate,2,8
+578,63,Female,trouble sleeping,33,Anxiety,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Exercise,High,3,8
+579,19,Non-binary,excessive worry,24,OCD,Yes,Yes,Stress,Psychotherapy,Journaling,Critical,2,9
+580,68,Male,feeling overwhelmed,39,PTSD,Yes,No,Depression,Psychotherapy,Journaling,High,1,5
+581,67,Female,trouble sleeping,34,Bipolar Disorder,No,No,Depression,Cognitive Behavioral Therapy,Breathing Exercises,Low,2,5
+582,52,Male,excessive worry,28,PTSD,No,No,Depression,No Therapy Needed,Talk to a Friend,High,8,3
+583,40,Other,excessive worry,37,Depression,No,Yes,Stress,Mindfulness-Based Therapy,Take Breaks,Low,9,5
+584,34,Female,feeling anxious,7,Depression,Yes,No,Depression,Psychotherapy,Breathing Exercises,High,2,8
+585,43,Male,feeling sad,4,None,No,No,Panic Disorder,Support Groups,Exercise,Low,7,5
+586,25,Male,lack of concentration,37,None,No,Yes,Stress,Psychotherapy,Take Breaks,Moderate,5,4
+587,46,Non-binary,loss of interest in activities,1,Depression,No,No,Burnout,Mindfulness-Based Therapy,Breathing Exercises,High,3,8
+588,43,Male,lack of concentration,1,OCD,Yes,No,Stress,Psychotherapy,Talk to a Friend,Low,9,7
+589,27,Female,trouble sleeping,47,PTSD,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Meditation,High,6,6
+590,43,Female,loss of interest in activities,20,Depression,Yes,No,Burnout,Psychotherapy,Meditation,Critical,1,5
+591,51,Non-binary,panic attacks,19,None,Yes,No,Stress,Psychotherapy,Exercise,Moderate,5,5
+592,68,Female,feeling sad,29,Depression,No,No,Depression,Support Groups,Meditation,Low,7,10
+593,58,Other,panic attacks,10,OCD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Critical,4,2
+594,24,Female,panic attacks,18,Depression,No,No,Anxiety,Cognitive Behavioral Therapy,Exercise,High,8,4
+595,21,Female,feeling overwhelmed,28,PTSD,Yes,No,Depression,Psychotherapy,Take Breaks,Critical,10,8
+596,67,Male,lack of concentration,35,Bipolar Disorder,No,Yes,Anxiety,Support Groups,Talk to a Friend,High,5,8
+597,62,Male,feeling anxious,43,OCD,No,Yes,Anxiety,Psychotherapy,Exercise,Moderate,9,1
+598,28,Female,panic attacks,47,None,No,No,Depression,Psychotherapy,Take Breaks,Critical,9,2
+599,46,Non-binary,trouble sleeping,31,PTSD,Yes,No,Depression,Mindfulness-Based Therapy,Exercise,Moderate,9,5
+600,53,Male,feeling sad,27,Depression,No,No,Stress,Mindfulness-Based Therapy,Journaling,Low,1,9
+601,42,Non-binary,feeling irritable,11,Depression,Yes,No,Stress,Support Groups,Journaling,High,2,10
+602,38,Female,panic attacks,49,Bipolar Disorder,No,Yes,Depression,No Therapy Needed,Exercise,High,3,7
+603,53,Female,feeling sad,49,None,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Meditation,Moderate,4,10
+604,27,Other,loss of interest in activities,38,None,Yes,Yes,Anxiety,No Therapy Needed,Journaling,Moderate,10,5
+605,54,Male,lack of concentration,5,Anxiety,No,Yes,Stress,Cognitive Behavioral Therapy,Talk to a Friend,Low,9,1
+606,26,Female,excessive worry,8,None,No,No,Anxiety,Mindfulness-Based Therapy,Take Breaks,Critical,10,6
+607,41,Other,feeling overwhelmed,34,Bipolar Disorder,No,No,Burnout,Mindfulness-Based Therapy,Breathing Exercises,High,6,8
+608,52,Male,feeling sad,48,Anxiety,No,Yes,Depression,Support Groups,Journaling,High,1,7
+609,66,Female,trouble sleeping,12,Anxiety,No,Yes,Panic Disorder,No Therapy Needed,Exercise,Low,9,2
+610,52,Female,trouble sleeping,38,Depression,Yes,No,Burnout,Mindfulness-Based Therapy,Meditation,Low,6,5
+611,65,Male,feeling sad,1,Depression,No,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Moderate,4,4
+612,53,Male,trouble sleeping,31,None,No,No,Burnout,Support Groups,Take Breaks,Moderate,4,9
+613,35,Male,lack of concentration,4,Anxiety,Yes,No,Depression,Support Groups,Take Breaks,Critical,3,10
+614,66,Female,trouble sleeping,49,Depression,No,Yes,Stress,No Therapy Needed,Journaling,Low,7,1
+615,56,Female,excessive worry,45,Bipolar Disorder,No,Yes,Depression,Cognitive Behavioral Therapy,Take Breaks,Critical,3,6
+616,49,Other,trouble sleeping,50,Depression,Yes,No,Stress,Cognitive Behavioral Therapy,Take Breaks,Low,2,3
+617,41,Non-binary,excessive worry,5,OCD,No,Yes,Burnout,Psychotherapy,Meditation,High,10,9
+618,40,Male,panic attacks,30,OCD,No,No,Burnout,Mindfulness-Based Therapy,Meditation,Low,8,5
+619,49,Female,feeling anxious,24,Depression,No,No,Panic Disorder,No Therapy Needed,Meditation,Low,4,6
+620,54,Female,lack of concentration,3,Anxiety,Yes,No,Stress,Mindfulness-Based Therapy,Exercise,High,8,9
+621,29,Male,feeling anxious,11,Anxiety,No,Yes,Burnout,No Therapy Needed,Take Breaks,Low,1,9
+622,66,Non-binary,panic attacks,45,PTSD,Yes,No,Anxiety,No Therapy Needed,Take Breaks,Critical,5,8
+623,30,Male,lack of concentration,4,OCD,No,No,Panic Disorder,No Therapy Needed,Take Breaks,Moderate,9,9
+624,40,Non-binary,feeling sad,26,Bipolar Disorder,Yes,No,Depression,Mindfulness-Based Therapy,Talk to a Friend,Moderate,1,4
+625,42,Female,feeling sad,27,Anxiety,No,No,Panic Disorder,Support Groups,Meditation,Critical,4,6
+626,52,Non-binary,excessive worry,46,None,Yes,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,High,6,5
+627,58,Other,panic attacks,43,OCD,Yes,No,Stress,No Therapy Needed,Journaling,Low,10,5
+628,47,Female,excessive worry,27,Bipolar Disorder,Yes,No,Depression,Psychotherapy,Breathing Exercises,Critical,8,4
+629,34,Other,feeling overwhelmed,42,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Exercise,Moderate,3,2
+630,66,Male,trouble sleeping,51,Anxiety,Yes,No,Stress,No Therapy Needed,Exercise,Moderate,5,6
+631,37,Male,feeling irritable,50,Bipolar Disorder,Yes,No,Panic Disorder,Psychotherapy,Take Breaks,Critical,7,9
+632,65,Male,feeling overwhelmed,6,Anxiety,No,No,Burnout,Support Groups,Breathing Exercises,Moderate,1,1
+633,42,Non-binary,trouble sleeping,15,Depression,No,Yes,Panic Disorder,No Therapy Needed,Take Breaks,Critical,7,7
+634,39,Female,lack of concentration,30,OCD,Yes,No,Anxiety,Psychotherapy,Talk to a Friend,Moderate,8,6
+635,30,Male,excessive worry,42,PTSD,Yes,No,Burnout,No Therapy Needed,Exercise,Critical,8,3
+636,36,Male,lack of concentration,37,Depression,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Exercise,Low,9,1
+637,66,Female,lack of concentration,37,OCD,Yes,Yes,Stress,Psychotherapy,Breathing Exercises,Low,6,4
+638,53,Male,trouble sleeping,42,Anxiety,No,No,Anxiety,Mindfulness-Based Therapy,Exercise,Low,6,9
+639,29,Other,panic attacks,37,OCD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Low,2,2
+640,58,Female,trouble sleeping,35,Anxiety,No,No,Anxiety,Psychotherapy,Talk to a Friend,Moderate,3,3
+641,36,Female,loss of interest in activities,23,Depression,No,No,Burnout,Cognitive Behavioral Therapy,Talk to a Friend,High,4,2
+642,29,Female,feeling sad,6,None,Yes,Yes,Depression,Psychotherapy,Journaling,Critical,4,2
+643,26,Other,feeling sad,4,None,Yes,No,Burnout,Cognitive Behavioral Therapy,Talk to a Friend,High,8,10
+644,24,Female,feeling overwhelmed,18,OCD,No,Yes,Panic Disorder,No Therapy Needed,Talk to a Friend,Moderate,1,8
+645,45,Other,feeling sad,9,None,No,Yes,Depression,No Therapy Needed,Journaling,Moderate,10,3
+646,31,Female,trouble sleeping,49,Anxiety,Yes,No,Panic Disorder,Psychotherapy,Take Breaks,High,4,7
+647,48,Non-binary,excessive worry,29,Bipolar Disorder,Yes,No,Depression,No Therapy Needed,Meditation,High,4,8
+648,69,Male,trouble sleeping,13,Anxiety,Yes,No,Burnout,Support Groups,Exercise,Moderate,1,3
+649,36,Non-binary,trouble sleeping,47,Bipolar Disorder,No,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Moderate,3,2
+650,64,Male,feeling irritable,17,Depression,No,Yes,Stress,Mindfulness-Based Therapy,Exercise,Critical,5,8
+651,33,Other,excessive worry,45,PTSD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Low,6,3
+652,22,Non-binary,loss of interest in activities,32,Bipolar Disorder,No,No,Burnout,No Therapy Needed,Exercise,Low,9,7
+653,52,Female,feeling sad,48,None,No,Yes,Depression,Cognitive Behavioral Therapy,Take Breaks,Critical,9,1
+654,29,Male,excessive worry,22,Anxiety,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Journaling,High,9,6
+655,42,Male,feeling sad,4,Depression,Yes,No,Burnout,Mindfulness-Based Therapy,Exercise,Moderate,1,9
+656,69,Non-binary,feeling overwhelmed,5,None,No,Yes,Panic Disorder,No Therapy Needed,Exercise,High,9,3
+657,38,Other,excessive worry,37,Depression,No,Yes,Stress,Support Groups,Exercise,Low,8,7
+658,53,Non-binary,feeling sad,41,PTSD,Yes,No,Anxiety,Support Groups,Meditation,Low,2,6
+659,40,Other,loss of interest in activities,49,Anxiety,Yes,Yes,Depression,No Therapy Needed,Meditation,High,1,8
+660,33,Other,feeling anxious,13,OCD,Yes,No,Panic Disorder,No Therapy Needed,Breathing Exercises,Low,1,3
+661,56,Male,lack of concentration,34,Anxiety,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Journaling,Moderate,6,3
+662,62,Non-binary,lack of concentration,45,PTSD,Yes,No,Stress,No Therapy Needed,Exercise,Critical,9,4
+663,59,Non-binary,loss of interest in activities,22,Anxiety,No,Yes,Depression,Support Groups,Exercise,High,7,3
+664,56,Other,feeling irritable,23,OCD,No,Yes,Burnout,No Therapy Needed,Exercise,Moderate,5,9
+665,31,Non-binary,feeling anxious,51,Bipolar Disorder,No,No,Burnout,Cognitive Behavioral Therapy,Exercise,Moderate,2,4
+666,48,Female,feeling overwhelmed,3,Depression,No,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Low,1,6
+667,22,Female,loss of interest in activities,42,OCD,Yes,No,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Moderate,2,8
+668,52,Non-binary,lack of concentration,34,None,Yes,No,Depression,Cognitive Behavioral Therapy,Take Breaks,High,1,8
+669,40,Non-binary,lack of concentration,32,PTSD,Yes,Yes,Burnout,Psychotherapy,Breathing Exercises,Moderate,3,5
+670,46,Other,lack of concentration,45,Bipolar Disorder,No,Yes,Anxiety,No Therapy Needed,Talk to a Friend,Critical,6,5
+671,60,Female,panic attacks,51,None,No,Yes,Stress,Mindfulness-Based Therapy,Journaling,Moderate,8,6
+672,28,Female,loss of interest in activities,49,None,No,No,Stress,No Therapy Needed,Take Breaks,Moderate,3,10
+673,35,Male,trouble sleeping,21,PTSD,Yes,Yes,Burnout,Psychotherapy,Exercise,Critical,10,7
+674,64,Other,feeling overwhelmed,46,Bipolar Disorder,No,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Moderate,9,10
+675,29,Male,lack of concentration,44,None,Yes,No,Depression,Psychotherapy,Breathing Exercises,Moderate,10,7
+676,26,Female,feeling sad,21,None,Yes,No,Depression,Support Groups,Talk to a Friend,Low,5,4
+677,27,Other,loss of interest in activities,44,Bipolar Disorder,Yes,Yes,Depression,Support Groups,Take Breaks,High,7,6
+678,61,Non-binary,panic attacks,11,Anxiety,Yes,No,Stress,No Therapy Needed,Breathing Exercises,Low,8,7
+679,34,Other,loss of interest in activities,39,None,Yes,Yes,Anxiety,No Therapy Needed,Meditation,High,3,5
+680,55,Non-binary,feeling overwhelmed,4,Depression,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Critical,2,5
+681,24,Non-binary,panic attacks,51,Bipolar Disorder,No,No,Stress,Mindfulness-Based Therapy,Breathing Exercises,Critical,2,2
+682,63,Other,feeling overwhelmed,1,None,Yes,Yes,Depression,Support Groups,Take Breaks,Critical,5,7
+683,30,Non-binary,loss of interest in activities,28,PTSD,Yes,No,Depression,Cognitive Behavioral Therapy,Meditation,High,1,6
+684,57,Male,trouble sleeping,24,OCD,No,No,Burnout,Psychotherapy,Breathing Exercises,High,2,1
+685,59,Female,feeling overwhelmed,35,Depression,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,High,9,4
+686,26,Non-binary,panic attacks,13,OCD,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Critical,7,3
+687,67,Male,panic attacks,47,OCD,No,Yes,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,High,6,3
+688,44,Non-binary,feeling overwhelmed,34,None,No,No,Anxiety,Cognitive Behavioral Therapy,Meditation,Moderate,9,7
+689,19,Female,loss of interest in activities,11,Depression,Yes,Yes,Panic Disorder,No Therapy Needed,Exercise,Low,7,10
+690,22,Male,feeling irritable,36,Depression,Yes,No,Burnout,Psychotherapy,Journaling,Critical,5,4
+691,46,Female,loss of interest in activities,51,Anxiety,No,No,Panic Disorder,Cognitive Behavioral Therapy,Talk to a Friend,Low,9,8
+692,54,Female,feeling overwhelmed,17,OCD,Yes,Yes,Depression,Mindfulness-Based Therapy,Meditation,Moderate,6,9
+693,55,Male,feeling anxious,35,Depression,Yes,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,High,6,3
+694,36,Male,feeling overwhelmed,18,Anxiety,No,Yes,Anxiety,Support Groups,Meditation,Low,4,5
+695,25,Male,trouble sleeping,40,Bipolar Disorder,No,Yes,Stress,Cognitive Behavioral Therapy,Journaling,Moderate,1,4
+696,65,Other,feeling overwhelmed,22,Anxiety,Yes,Yes,Anxiety,No Therapy Needed,Take Breaks,Moderate,5,10
+697,62,Male,feeling overwhelmed,24,PTSD,No,Yes,Stress,Psychotherapy,Journaling,Low,9,6
+698,18,Male,trouble sleeping,19,None,No,Yes,Panic Disorder,No Therapy Needed,Exercise,Critical,8,10
+699,39,Male,feeling overwhelmed,37,Bipolar Disorder,No,Yes,Depression,Mindfulness-Based Therapy,Exercise,Low,8,4
+700,69,Male,lack of concentration,39,Bipolar Disorder,Yes,Yes,Stress,No Therapy Needed,Journaling,Critical,5,8
+701,34,Non-binary,feeling anxious,21,PTSD,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,High,9,3
+702,24,Other,feeling sad,8,Anxiety,Yes,Yes,Depression,Mindfulness-Based Therapy,Talk to a Friend,Critical,3,5
+703,42,Female,feeling anxious,28,None,No,No,Stress,Mindfulness-Based Therapy,Breathing Exercises,High,3,1
+704,62,Male,feeling overwhelmed,5,Anxiety,Yes,No,Anxiety,Mindfulness-Based Therapy,Exercise,Low,1,6
+705,21,Non-binary,lack of concentration,17,Depression,No,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,High,9,5
+706,53,Non-binary,loss of interest in activities,37,Anxiety,Yes,Yes,Anxiety,Support Groups,Exercise,Moderate,6,8
+707,23,Non-binary,feeling overwhelmed,36,Bipolar Disorder,Yes,No,Panic Disorder,No Therapy Needed,Journaling,High,2,9
+708,48,Female,lack of concentration,19,None,No,No,Anxiety,Support Groups,Talk to a Friend,Critical,8,8
+709,36,Male,trouble sleeping,27,Anxiety,Yes,Yes,Burnout,Support Groups,Talk to a Friend,Critical,9,8
+710,61,Other,lack of concentration,34,None,No,Yes,Depression,Cognitive Behavioral Therapy,Journaling,Critical,9,3
+711,56,Other,trouble sleeping,11,None,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,High,2,4
+712,44,Non-binary,feeling irritable,45,Depression,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Critical,2,4
+713,27,Female,feeling sad,47,Depression,No,Yes,Depression,Psychotherapy,Meditation,Critical,7,5
+714,43,Female,excessive worry,12,Bipolar Disorder,No,Yes,Stress,Cognitive Behavioral Therapy,Exercise,Moderate,4,9
+715,36,Female,lack of concentration,21,PTSD,No,Yes,Anxiety,No Therapy Needed,Breathing Exercises,High,1,9
+716,56,Other,panic attacks,11,None,Yes,No,Depression,Support Groups,Journaling,Moderate,8,10
+717,20,Non-binary,feeling overwhelmed,39,PTSD,Yes,Yes,Burnout,No Therapy Needed,Breathing Exercises,Critical,2,1
+718,62,Male,feeling anxious,28,Bipolar Disorder,Yes,Yes,Stress,Cognitive Behavioral Therapy,Talk to a Friend,Critical,3,8
+719,30,Other,excessive worry,5,None,No,Yes,Burnout,Psychotherapy,Exercise,Critical,5,1
+720,67,Non-binary,feeling anxious,17,None,No,No,Depression,Psychotherapy,Take Breaks,High,3,2
+721,45,Non-binary,feeling irritable,20,OCD,No,No,Burnout,Support Groups,Meditation,Low,7,7
+722,37,Male,excessive worry,41,PTSD,Yes,Yes,Depression,No Therapy Needed,Exercise,Critical,7,8
+723,45,Male,excessive worry,46,Anxiety,Yes,Yes,Depression,Mindfulness-Based Therapy,Talk to a Friend,Critical,2,1
+724,25,Male,feeling anxious,12,Depression,No,No,Burnout,No Therapy Needed,Talk to a Friend,Critical,7,3
+725,58,Female,trouble sleeping,6,Anxiety,Yes,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Critical,6,7
+726,56,Male,feeling anxious,17,PTSD,No,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,High,10,9
+727,18,Non-binary,trouble sleeping,51,Depression,Yes,No,Depression,Psychotherapy,Journaling,Low,9,8
+728,20,Male,feeling irritable,19,Anxiety,Yes,Yes,Panic Disorder,Support Groups,Meditation,Low,9,8
+729,30,Non-binary,feeling overwhelmed,26,OCD,No,Yes,Depression,Support Groups,Take Breaks,Low,2,9
+730,45,Other,loss of interest in activities,48,Depression,Yes,No,Panic Disorder,Psychotherapy,Talk to a Friend,Critical,7,10
+731,66,Female,trouble sleeping,44,None,Yes,No,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Critical,5,3
+732,42,Other,feeling irritable,44,Anxiety,No,Yes,Depression,Psychotherapy,Breathing Exercises,Low,6,8
+733,50,Other,panic attacks,32,Depression,No,No,Burnout,Cognitive Behavioral Therapy,Meditation,Low,1,1
+734,55,Non-binary,feeling irritable,6,OCD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Exercise,Critical,7,8
+735,23,Other,feeling anxious,36,Depression,No,Yes,Anxiety,Psychotherapy,Meditation,Critical,6,7
+736,61,Non-binary,feeling anxious,38,Depression,Yes,Yes,Stress,Cognitive Behavioral Therapy,Meditation,Moderate,4,8
+737,62,Male,loss of interest in activities,11,OCD,No,No,Burnout,Mindfulness-Based Therapy,Take Breaks,Moderate,1,1
+738,49,Male,feeling irritable,33,Anxiety,Yes,No,Burnout,Psychotherapy,Meditation,Moderate,9,6
+739,62,Non-binary,feeling sad,24,Bipolar Disorder,Yes,Yes,Anxiety,Support Groups,Take Breaks,Low,4,7
+740,64,Male,feeling overwhelmed,23,Anxiety,No,Yes,Burnout,Psychotherapy,Talk to a Friend,High,2,5
+741,38,Female,feeling anxious,15,PTSD,Yes,No,Anxiety,No Therapy Needed,Talk to a Friend,Critical,8,5
+742,33,Other,loss of interest in activities,27,OCD,Yes,No,Burnout,Psychotherapy,Journaling,Moderate,2,7
+743,38,Female,feeling overwhelmed,11,Anxiety,No,No,Depression,No Therapy Needed,Take Breaks,High,5,3
+744,28,Other,feeling irritable,51,Depression,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Critical,6,6
+745,54,Male,feeling irritable,50,OCD,Yes,No,Anxiety,Psychotherapy,Exercise,High,8,7
+746,53,Female,excessive worry,17,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,Low,1,1
+747,52,Male,loss of interest in activities,51,Anxiety,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,Low,1,2
+748,36,Other,feeling anxious,14,OCD,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Exercise,Low,4,4
+749,37,Non-binary,feeling sad,27,Anxiety,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Moderate,5,8
+750,35,Non-binary,feeling irritable,18,OCD,No,No,Depression,Mindfulness-Based Therapy,Exercise,Critical,9,10
+751,64,Female,feeling sad,28,Depression,No,Yes,Depression,Psychotherapy,Journaling,Low,7,6
+752,58,Male,feeling irritable,51,None,No,Yes,Depression,Psychotherapy,Breathing Exercises,Moderate,7,1
+753,66,Male,feeling anxious,47,None,Yes,Yes,Burnout,Support Groups,Take Breaks,Moderate,8,10
+754,31,Female,feeling overwhelmed,47,PTSD,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Take Breaks,Moderate,5,5
+755,32,Non-binary,lack of concentration,4,OCD,Yes,No,Anxiety,Mindfulness-Based Therapy,Meditation,Moderate,5,7
+756,48,Other,feeling overwhelmed,7,Anxiety,Yes,Yes,Stress,Cognitive Behavioral Therapy,Breathing Exercises,Low,1,6
+757,18,Female,feeling irritable,45,None,Yes,No,Panic Disorder,No Therapy Needed,Journaling,Moderate,9,9
+758,20,Other,lack of concentration,35,None,Yes,No,Stress,Mindfulness-Based Therapy,Talk to a Friend,Low,6,8
+759,33,Non-binary,lack of concentration,48,Bipolar Disorder,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Exercise,Low,9,4
+760,40,Male,feeling sad,9,Bipolar Disorder,No,Yes,Depression,Support Groups,Meditation,Moderate,3,5
+761,28,Non-binary,loss of interest in activities,8,None,No,No,Burnout,Support Groups,Take Breaks,Low,5,7
+762,29,Female,feeling sad,45,OCD,Yes,Yes,Stress,Mindfulness-Based Therapy,Talk to a Friend,Critical,2,8
+763,27,Male,feeling sad,17,PTSD,Yes,Yes,Panic Disorder,No Therapy Needed,Journaling,Critical,10,5
+764,49,Female,feeling overwhelmed,17,None,Yes,Yes,Burnout,Support Groups,Breathing Exercises,High,5,9
+765,33,Female,feeling overwhelmed,49,Depression,No,No,Stress,Support Groups,Exercise,Critical,8,10
+766,25,Non-binary,panic attacks,33,Anxiety,Yes,Yes,Anxiety,No Therapy Needed,Meditation,Low,2,4
+767,55,Female,feeling irritable,32,PTSD,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Take Breaks,Low,8,4
+768,29,Non-binary,panic attacks,8,Depression,No,Yes,Anxiety,Support Groups,Take Breaks,Critical,4,8
+769,41,Male,feeling anxious,19,PTSD,No,No,Depression,Psychotherapy,Talk to a Friend,Moderate,10,1
+770,45,Non-binary,feeling irritable,38,Depression,No,No,Anxiety,Support Groups,Talk to a Friend,Moderate,10,8
+771,25,Male,feeling irritable,3,Anxiety,No,No,Anxiety,Cognitive Behavioral Therapy,Exercise,Low,1,5
+772,45,Non-binary,excessive worry,5,Anxiety,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,5,1
+773,53,Other,excessive worry,13,Bipolar Disorder,Yes,No,Depression,Mindfulness-Based Therapy,Journaling,High,1,4
+774,43,Other,trouble sleeping,47,OCD,No,Yes,Anxiety,Psychotherapy,Breathing Exercises,High,7,2
+775,25,Female,trouble sleeping,46,Depression,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Breathing Exercises,Critical,8,4
+776,67,Non-binary,feeling sad,31,Bipolar Disorder,No,No,Stress,No Therapy Needed,Breathing Exercises,Critical,3,8
+777,45,Non-binary,feeling anxious,16,Depression,No,Yes,Anxiety,Psychotherapy,Exercise,Moderate,3,5
+778,45,Male,lack of concentration,50,Bipolar Disorder,Yes,No,Depression,Psychotherapy,Exercise,Low,7,1
+779,54,Female,lack of concentration,32,Anxiety,Yes,Yes,Anxiety,No Therapy Needed,Journaling,Critical,4,7
+780,58,Non-binary,excessive worry,22,PTSD,Yes,No,Stress,Support Groups,Breathing Exercises,High,3,1
+781,53,Female,excessive worry,29,Bipolar Disorder,Yes,Yes,Depression,No Therapy Needed,Exercise,Critical,8,9
+782,44,Other,excessive worry,22,Depression,Yes,Yes,Panic Disorder,No Therapy Needed,Journaling,Critical,3,3
+783,34,Non-binary,loss of interest in activities,43,Depression,No,Yes,Depression,Support Groups,Take Breaks,High,7,3
+784,26,Non-binary,trouble sleeping,3,OCD,Yes,Yes,Panic Disorder,Support Groups,Journaling,Low,2,6
+785,50,Female,feeling overwhelmed,10,Anxiety,Yes,Yes,Depression,Support Groups,Breathing Exercises,Critical,1,10
+786,37,Non-binary,lack of concentration,42,Depression,Yes,No,Stress,Support Groups,Meditation,Critical,6,6
+787,30,Female,feeling irritable,21,None,No,Yes,Stress,Support Groups,Breathing Exercises,Critical,8,6
+788,45,Non-binary,trouble sleeping,16,PTSD,Yes,No,Depression,No Therapy Needed,Meditation,Moderate,1,1
+789,65,Male,panic attacks,12,Bipolar Disorder,No,No,Anxiety,Mindfulness-Based Therapy,Journaling,Critical,10,5
+790,46,Female,feeling overwhelmed,2,OCD,Yes,No,Stress,Mindfulness-Based Therapy,Take Breaks,High,9,6
+791,30,Non-binary,trouble sleeping,41,PTSD,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Take Breaks,Low,3,8
+792,63,Other,feeling anxious,24,Anxiety,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Exercise,Low,3,1
+793,52,Non-binary,feeling irritable,35,OCD,Yes,Yes,Burnout,Mindfulness-Based Therapy,Take Breaks,High,4,5
+794,23,Other,trouble sleeping,30,Bipolar Disorder,Yes,No,Panic Disorder,No Therapy Needed,Talk to a Friend,Moderate,1,3
+795,35,Other,loss of interest in activities,30,Bipolar Disorder,No,Yes,Burnout,Support Groups,Journaling,High,9,2
+796,68,Male,excessive worry,47,None,Yes,Yes,Depression,Support Groups,Exercise,Low,3,8
+797,22,Female,excessive worry,35,Anxiety,No,No,Depression,No Therapy Needed,Take Breaks,High,10,7
+798,64,Non-binary,feeling irritable,19,OCD,No,No,Depression,Mindfulness-Based Therapy,Journaling,Moderate,4,10
+799,42,Male,excessive worry,50,OCD,No,No,Anxiety,No Therapy Needed,Breathing Exercises,Low,1,7
+800,19,Non-binary,trouble sleeping,8,Depression,No,No,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Moderate,4,5
+801,27,Other,panic attacks,26,None,No,No,Burnout,Support Groups,Meditation,High,1,9
+802,47,Female,lack of concentration,49,None,Yes,No,Panic Disorder,Psychotherapy,Journaling,Critical,5,5
+803,67,Non-binary,lack of concentration,40,OCD,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Exercise,High,5,2
+804,62,Non-binary,feeling overwhelmed,7,OCD,Yes,No,Depression,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,7,3
+805,22,Other,feeling sad,30,PTSD,No,Yes,Stress,No Therapy Needed,Talk to a Friend,High,8,4
+806,50,Non-binary,feeling anxious,7,PTSD,No,Yes,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Critical,4,5
+807,18,Non-binary,feeling irritable,3,PTSD,No,Yes,Anxiety,Support Groups,Take Breaks,Moderate,7,3
+808,35,Other,feeling overwhelmed,1,None,No,No,Depression,Psychotherapy,Meditation,High,4,7
+809,49,Male,feeling sad,36,Depression,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,3,5
+810,64,Other,loss of interest in activities,25,Bipolar Disorder,Yes,No,Depression,Psychotherapy,Talk to a Friend,Moderate,6,5
+811,66,Male,loss of interest in activities,37,PTSD,No,No,Burnout,Mindfulness-Based Therapy,Exercise,Low,4,6
+812,28,Female,feeling anxious,1,Depression,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,3,7
+813,38,Male,excessive worry,15,Anxiety,Yes,No,Stress,Psychotherapy,Meditation,Moderate,9,10
+814,43,Male,trouble sleeping,37,PTSD,No,Yes,Panic Disorder,Support Groups,Talk to a Friend,High,5,10
+815,42,Female,feeling overwhelmed,13,Bipolar Disorder,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,High,7,8
+816,39,Male,feeling overwhelmed,40,Anxiety,No,No,Burnout,Psychotherapy,Take Breaks,High,6,9
+817,44,Other,feeling irritable,8,Anxiety,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Critical,10,4
+818,66,Male,feeling irritable,5,Bipolar Disorder,Yes,Yes,Stress,Psychotherapy,Meditation,Moderate,5,5
+819,30,Female,loss of interest in activities,9,PTSD,No,Yes,Anxiety,Psychotherapy,Breathing Exercises,Moderate,7,5
+820,50,Other,loss of interest in activities,1,None,Yes,No,Panic Disorder,No Therapy Needed,Meditation,Critical,6,8
+821,51,Female,panic attacks,36,Bipolar Disorder,No,Yes,Depression,Mindfulness-Based Therapy,Take Breaks,Moderate,10,9
+822,58,Female,panic attacks,35,Bipolar Disorder,No,No,Panic Disorder,Support Groups,Talk to a Friend,Moderate,2,7
+823,52,Non-binary,excessive worry,2,Bipolar Disorder,Yes,No,Anxiety,Support Groups,Journaling,Critical,3,5
+824,18,Non-binary,panic attacks,40,Anxiety,No,Yes,Panic Disorder,No Therapy Needed,Journaling,Low,2,3
+825,38,Female,trouble sleeping,23,Depression,No,Yes,Depression,Support Groups,Meditation,Moderate,3,1
+826,65,Female,trouble sleeping,9,None,Yes,No,Burnout,Psychotherapy,Take Breaks,Critical,1,9
+827,23,Female,feeling overwhelmed,34,PTSD,No,No,Anxiety,No Therapy Needed,Exercise,High,8,5
+828,45,Non-binary,lack of concentration,46,PTSD,No,Yes,Panic Disorder,Cognitive Behavioral Therapy,Meditation,Low,6,9
+829,34,Non-binary,trouble sleeping,14,Depression,No,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,High,2,10
+830,22,Male,feeling sad,4,Bipolar Disorder,Yes,No,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Moderate,8,4
+831,48,Male,loss of interest in activities,30,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,6,5
+832,22,Female,feeling irritable,31,PTSD,Yes,No,Panic Disorder,Psychotherapy,Journaling,Critical,7,4
+833,55,Other,panic attacks,38,OCD,No,No,Anxiety,Cognitive Behavioral Therapy,Journaling,Moderate,1,2
+834,20,Other,feeling overwhelmed,11,PTSD,No,No,Anxiety,No Therapy Needed,Exercise,Critical,7,1
+835,40,Non-binary,feeling anxious,35,Bipolar Disorder,No,Yes,Depression,No Therapy Needed,Take Breaks,Low,3,8
+836,54,Non-binary,feeling irritable,8,OCD,No,No,Burnout,Mindfulness-Based Therapy,Take Breaks,High,8,4
+837,54,Non-binary,feeling sad,3,Depression,Yes,No,Depression,Cognitive Behavioral Therapy,Take Breaks,Moderate,6,5
+838,27,Female,panic attacks,14,None,Yes,Yes,Panic Disorder,Cognitive Behavioral Therapy,Take Breaks,Moderate,4,6
+839,27,Other,feeling sad,13,Depression,No,Yes,Anxiety,Cognitive Behavioral Therapy,Exercise,Critical,8,8
+840,36,Male,loss of interest in activities,45,Depression,No,No,Panic Disorder,Support Groups,Talk to a Friend,Low,9,8
+841,34,Female,loss of interest in activities,32,None,No,No,Panic Disorder,Support Groups,Meditation,Critical,10,7
+842,38,Male,excessive worry,34,None,No,Yes,Stress,Mindfulness-Based Therapy,Meditation,Low,2,4
+843,31,Male,feeling overwhelmed,45,PTSD,No,No,Stress,Cognitive Behavioral Therapy,Take Breaks,Moderate,6,6
+844,26,Female,feeling irritable,19,PTSD,No,No,Panic Disorder,Cognitive Behavioral Therapy,Breathing Exercises,Low,5,4
+845,63,Male,feeling irritable,38,None,No,Yes,Anxiety,No Therapy Needed,Journaling,Moderate,5,7
+846,18,Other,feeling anxious,16,OCD,No,No,Panic Disorder,No Therapy Needed,Exercise,Low,10,1
+847,68,Male,feeling overwhelmed,2,Anxiety,Yes,Yes,Stress,Mindfulness-Based Therapy,Breathing Exercises,High,3,5
+848,62,Other,feeling sad,40,PTSD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Low,8,10
+849,30,Other,feeling anxious,17,Anxiety,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,High,8,10
+850,21,Other,lack of concentration,34,OCD,No,Yes,Burnout,No Therapy Needed,Exercise,Low,5,4
+851,18,Non-binary,feeling irritable,42,None,No,No,Burnout,No Therapy Needed,Meditation,Low,8,7
+852,66,Male,feeling sad,16,OCD,No,Yes,Panic Disorder,Support Groups,Journaling,Critical,10,9
+853,57,Female,trouble sleeping,38,PTSD,Yes,No,Anxiety,Mindfulness-Based Therapy,Meditation,Critical,8,5
+854,49,Female,excessive worry,2,Depression,No,No,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,Moderate,3,4
+855,51,Male,feeling overwhelmed,2,None,Yes,No,Panic Disorder,Cognitive Behavioral Therapy,Journaling,Critical,2,9
+856,45,Non-binary,loss of interest in activities,26,Bipolar Disorder,No,No,Stress,Cognitive Behavioral Therapy,Talk to a Friend,Low,9,5
+857,48,Non-binary,trouble sleeping,13,Anxiety,Yes,No,Burnout,Support Groups,Breathing Exercises,Critical,2,9
+858,25,Other,excessive worry,47,OCD,Yes,Yes,Stress,Psychotherapy,Meditation,Low,9,8
+859,56,Male,excessive worry,31,None,Yes,Yes,Stress,Psychotherapy,Meditation,High,4,4
+860,43,Male,lack of concentration,34,OCD,No,Yes,Panic Disorder,Psychotherapy,Take Breaks,Low,2,7
+861,51,Female,lack of concentration,39,None,Yes,Yes,Stress,Mindfulness-Based Therapy,Meditation,Moderate,10,5
+862,20,Male,panic attacks,3,PTSD,No,No,Burnout,Mindfulness-Based Therapy,Exercise,High,1,10
+863,67,Non-binary,panic attacks,8,PTSD,No,Yes,Stress,No Therapy Needed,Breathing Exercises,Moderate,4,4
+864,29,Male,feeling anxious,23,PTSD,No,No,Burnout,Mindfulness-Based Therapy,Journaling,Moderate,9,5
+865,18,Female,excessive worry,14,OCD,No,No,Stress,Mindfulness-Based Therapy,Meditation,Moderate,9,5
+866,61,Other,trouble sleeping,27,Bipolar Disorder,No,Yes,Burnout,Mindfulness-Based Therapy,Take Breaks,Critical,4,9
+867,22,Female,feeling overwhelmed,29,PTSD,Yes,Yes,Stress,Support Groups,Take Breaks,Moderate,9,9
+868,47,Female,excessive worry,39,None,No,Yes,Stress,Mindfulness-Based Therapy,Meditation,High,6,6
+869,47,Other,lack of concentration,39,PTSD,No,Yes,Anxiety,Cognitive Behavioral Therapy,Exercise,Low,1,4
+870,34,Female,feeling sad,1,Depression,No,No,Burnout,Cognitive Behavioral Therapy,Take Breaks,Moderate,10,2
+871,65,Female,loss of interest in activities,17,PTSD,No,No,Burnout,No Therapy Needed,Journaling,High,6,3
+872,64,Male,panic attacks,41,OCD,No,Yes,Burnout,Support Groups,Breathing Exercises,Moderate,9,2
+873,40,Male,feeling irritable,30,Bipolar Disorder,Yes,No,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Low,2,5
+874,32,Other,feeling sad,13,Depression,Yes,No,Stress,Support Groups,Exercise,High,6,6
+875,54,Male,feeling overwhelmed,21,OCD,No,No,Burnout,Support Groups,Take Breaks,High,2,5
+876,38,Male,lack of concentration,19,OCD,Yes,Yes,Depression,No Therapy Needed,Breathing Exercises,Low,4,2
+877,31,Female,lack of concentration,19,OCD,Yes,No,Anxiety,Support Groups,Talk to a Friend,High,8,5
+878,19,Non-binary,lack of concentration,25,None,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,Low,7,9
+879,28,Male,feeling irritable,22,OCD,Yes,Yes,Burnout,Support Groups,Meditation,High,9,4
+880,68,Non-binary,panic attacks,31,None,No,No,Depression,No Therapy Needed,Journaling,High,7,10
+881,56,Male,feeling sad,17,OCD,Yes,No,Stress,No Therapy Needed,Talk to a Friend,Low,1,2
+882,55,Male,feeling overwhelmed,23,Anxiety,Yes,Yes,Anxiety,No Therapy Needed,Meditation,Low,2,3
+883,51,Other,panic attacks,32,Depression,Yes,No,Burnout,Cognitive Behavioral Therapy,Meditation,High,6,3
+884,55,Other,feeling overwhelmed,10,Anxiety,No,No,Stress,Mindfulness-Based Therapy,Take Breaks,High,7,9
+885,67,Other,panic attacks,10,OCD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Journaling,Low,3,4
+886,51,Non-binary,feeling irritable,36,Depression,Yes,Yes,Panic Disorder,Psychotherapy,Breathing Exercises,Critical,9,1
+887,35,Female,loss of interest in activities,8,Depression,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Meditation,Low,7,1
+888,47,Male,feeling overwhelmed,20,Bipolar Disorder,No,Yes,Anxiety,Support Groups,Exercise,High,6,7
+889,32,Male,panic attacks,32,Anxiety,Yes,No,Depression,No Therapy Needed,Exercise,High,6,7
+890,44,Male,lack of concentration,50,Bipolar Disorder,No,No,Anxiety,Psychotherapy,Breathing Exercises,High,1,2
+891,68,Non-binary,excessive worry,14,Depression,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Low,5,9
+892,51,Other,lack of concentration,50,None,Yes,Yes,Depression,Cognitive Behavioral Therapy,Journaling,High,10,9
+893,69,Female,feeling anxious,28,Depression,No,Yes,Depression,No Therapy Needed,Take Breaks,Critical,3,5
+894,55,Non-binary,loss of interest in activities,46,Bipolar Disorder,No,No,Stress,Cognitive Behavioral Therapy,Exercise,Moderate,7,3
+895,50,Other,loss of interest in activities,24,Anxiety,No,Yes,Stress,Mindfulness-Based Therapy,Exercise,Critical,10,3
+896,41,Non-binary,lack of concentration,15,OCD,Yes,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,Low,3,3
+897,32,Female,feeling sad,22,OCD,No,Yes,Panic Disorder,Psychotherapy,Talk to a Friend,High,5,6
+898,47,Other,feeling irritable,30,Anxiety,Yes,Yes,Panic Disorder,Support Groups,Talk to a Friend,Low,7,4
+899,59,Non-binary,feeling overwhelmed,4,OCD,No,Yes,Anxiety,Cognitive Behavioral Therapy,Breathing Exercises,Moderate,3,8
+900,68,Female,loss of interest in activities,13,OCD,Yes,No,Burnout,Psychotherapy,Exercise,Low,10,5
+901,34,Male,lack of concentration,23,Bipolar Disorder,No,No,Anxiety,No Therapy Needed,Journaling,High,2,1
+902,22,Female,lack of concentration,8,Anxiety,Yes,No,Anxiety,Support Groups,Exercise,Moderate,6,9
+903,46,Male,feeling irritable,18,PTSD,No,Yes,Burnout,Psychotherapy,Talk to a Friend,Moderate,8,1
+904,21,Non-binary,feeling irritable,12,None,Yes,No,Depression,Cognitive Behavioral Therapy,Take Breaks,High,4,6
+905,27,Other,trouble sleeping,31,None,No,No,Panic Disorder,Mindfulness-Based Therapy,Exercise,High,9,1
+906,34,Other,trouble sleeping,14,OCD,No,Yes,Anxiety,No Therapy Needed,Journaling,High,8,3
+907,27,Non-binary,feeling sad,34,None,Yes,Yes,Burnout,Cognitive Behavioral Therapy,Meditation,Low,7,10
+908,34,Other,feeling sad,18,Anxiety,No,No,Stress,Support Groups,Exercise,Critical,7,5
+909,37,Other,feeling anxious,34,Anxiety,Yes,No,Anxiety,Support Groups,Breathing Exercises,Low,3,10
+910,41,Male,feeling sad,11,Depression,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Meditation,Low,6,7
+911,22,Non-binary,panic attacks,41,Depression,No,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,Critical,5,10
+912,51,Female,feeling irritable,12,None,Yes,Yes,Anxiety,No Therapy Needed,Breathing Exercises,High,1,8
+913,23,Male,panic attacks,49,PTSD,No,Yes,Anxiety,No Therapy Needed,Breathing Exercises,High,3,9
+914,19,Non-binary,feeling overwhelmed,15,Depression,No,Yes,Burnout,Mindfulness-Based Therapy,Exercise,Critical,1,6
+915,30,Male,lack of concentration,31,Depression,Yes,No,Stress,Mindfulness-Based Therapy,Talk to a Friend,Critical,4,9
+916,60,Female,feeling sad,49,Anxiety,No,No,Stress,Support Groups,Meditation,Low,10,8
+917,60,Female,lack of concentration,29,PTSD,Yes,Yes,Depression,Mindfulness-Based Therapy,Journaling,Moderate,3,9
+918,65,Non-binary,loss of interest in activities,26,OCD,Yes,Yes,Panic Disorder,Psychotherapy,Talk to a Friend,Critical,4,10
+919,28,Female,feeling anxious,18,None,No,No,Depression,Cognitive Behavioral Therapy,Exercise,Low,9,4
+920,68,Male,loss of interest in activities,32,Depression,No,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,Moderate,3,9
+921,64,Female,feeling anxious,22,PTSD,Yes,Yes,Anxiety,No Therapy Needed,Journaling,High,6,7
+922,40,Male,trouble sleeping,38,PTSD,Yes,Yes,Stress,Psychotherapy,Meditation,High,6,5
+923,33,Male,lack of concentration,17,None,No,Yes,Panic Disorder,No Therapy Needed,Talk to a Friend,Low,7,5
+924,48,Female,feeling anxious,23,PTSD,No,No,Burnout,Psychotherapy,Take Breaks,Low,9,1
+925,28,Non-binary,excessive worry,24,PTSD,No,No,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Critical,7,2
+926,33,Other,panic attacks,50,PTSD,No,No,Anxiety,Cognitive Behavioral Therapy,Journaling,High,1,10
+927,25,Female,feeling anxious,8,Depression,Yes,No,Burnout,No Therapy Needed,Exercise,Low,8,3
+928,21,Male,feeling anxious,41,None,No,No,Panic Disorder,Psychotherapy,Meditation,High,5,8
+929,57,Male,panic attacks,6,PTSD,Yes,No,Panic Disorder,Support Groups,Journaling,High,9,6
+930,21,Female,lack of concentration,5,PTSD,Yes,Yes,Burnout,Mindfulness-Based Therapy,Breathing Exercises,Critical,10,10
+931,42,Non-binary,lack of concentration,44,Depression,No,Yes,Anxiety,Cognitive Behavioral Therapy,Meditation,Moderate,5,5
+932,20,Non-binary,panic attacks,29,None,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,Critical,5,1
+933,49,Male,loss of interest in activities,28,Anxiety,No,Yes,Burnout,Support Groups,Journaling,Low,2,9
+934,20,Male,excessive worry,11,Depression,Yes,No,Anxiety,Cognitive Behavioral Therapy,Talk to a Friend,Critical,3,3
+935,44,Non-binary,feeling overwhelmed,1,None,No,Yes,Burnout,Support Groups,Talk to a Friend,Critical,10,3
+936,46,Other,excessive worry,43,PTSD,Yes,No,Burnout,Mindfulness-Based Therapy,Talk to a Friend,High,9,2
+937,49,Female,lack of concentration,19,None,Yes,Yes,Panic Disorder,Psychotherapy,Exercise,Critical,7,4
+938,67,Male,trouble sleeping,9,None,No,Yes,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Low,1,2
+939,68,Male,feeling sad,27,OCD,No,No,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,Moderate,3,9
+940,36,Non-binary,feeling anxious,34,None,Yes,No,Depression,Mindfulness-Based Therapy,Breathing Exercises,Critical,2,10
+941,38,Female,panic attacks,44,Anxiety,Yes,Yes,Depression,No Therapy Needed,Meditation,Critical,1,7
+942,22,Non-binary,panic attacks,4,None,No,Yes,Anxiety,Support Groups,Take Breaks,Moderate,9,8
+943,35,Female,feeling anxious,36,Anxiety,Yes,No,Burnout,Support Groups,Talk to a Friend,Low,8,3
+944,45,Female,feeling sad,18,PTSD,No,Yes,Panic Disorder,Support Groups,Talk to a Friend,Low,5,6
+945,59,Female,feeling overwhelmed,15,Anxiety,Yes,No,Panic Disorder,No Therapy Needed,Journaling,Critical,2,10
+946,39,Male,feeling sad,51,PTSD,No,No,Anxiety,Psychotherapy,Exercise,High,1,6
+947,38,Other,feeling sad,13,PTSD,Yes,Yes,Anxiety,Mindfulness-Based Therapy,Take Breaks,Critical,7,1
+948,23,Non-binary,feeling sad,19,Anxiety,No,No,Depression,Psychotherapy,Meditation,Moderate,2,6
+949,18,Other,feeling overwhelmed,49,Depression,No,Yes,Stress,No Therapy Needed,Take Breaks,Moderate,1,3
+950,22,Non-binary,feeling overwhelmed,6,Bipolar Disorder,Yes,Yes,Anxiety,Support Groups,Talk to a Friend,Moderate,2,3
+951,58,Female,lack of concentration,48,None,No,No,Stress,Mindfulness-Based Therapy,Journaling,Critical,7,3
+952,29,Male,feeling anxious,12,OCD,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Exercise,Critical,7,10
+953,43,Other,feeling overwhelmed,51,Bipolar Disorder,No,No,Burnout,Cognitive Behavioral Therapy,Meditation,Low,10,10
+954,63,Male,feeling overwhelmed,37,None,No,No,Burnout,Psychotherapy,Take Breaks,High,6,8
+955,51,Non-binary,lack of concentration,17,None,No,No,Depression,Support Groups,Meditation,Critical,5,5
+956,66,Male,panic attacks,23,PTSD,Yes,Yes,Depression,Cognitive Behavioral Therapy,Talk to a Friend,Low,3,4
+957,31,Male,lack of concentration,26,None,No,No,Stress,Psychotherapy,Meditation,Critical,3,9
+958,43,Other,loss of interest in activities,29,OCD,Yes,Yes,Anxiety,No Therapy Needed,Journaling,Low,9,9
+959,62,Female,loss of interest in activities,33,None,No,No,Panic Disorder,Psychotherapy,Meditation,Low,4,1
+960,44,Male,trouble sleeping,27,Anxiety,Yes,No,Depression,Psychotherapy,Breathing Exercises,High,9,2
+961,26,Female,feeling sad,25,Bipolar Disorder,Yes,No,Panic Disorder,Psychotherapy,Journaling,Critical,4,8
+962,43,Non-binary,feeling anxious,10,Anxiety,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Take Breaks,Low,2,5
+963,64,Male,feeling irritable,47,OCD,No,Yes,Anxiety,Psychotherapy,Exercise,Moderate,4,7
+964,39,Other,excessive worry,23,None,Yes,No,Stress,Psychotherapy,Exercise,Moderate,6,1
+965,64,Non-binary,lack of concentration,21,OCD,No,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Moderate,6,10
+966,47,Non-binary,panic attacks,21,PTSD,Yes,Yes,Depression,Mindfulness-Based Therapy,Talk to a Friend,High,5,5
+967,60,Other,excessive worry,43,Anxiety,Yes,Yes,Panic Disorder,No Therapy Needed,Breathing Exercises,Low,1,3
+968,65,Male,panic attacks,13,Anxiety,Yes,Yes,Anxiety,Support Groups,Take Breaks,High,3,10
+969,34,Male,excessive worry,37,Depression,Yes,No,Anxiety,Cognitive Behavioral Therapy,Exercise,Critical,5,2
+970,43,Non-binary,lack of concentration,33,None,No,Yes,Anxiety,Cognitive Behavioral Therapy,Exercise,Critical,6,2
+971,53,Male,feeling irritable,24,PTSD,Yes,No,Depression,Psychotherapy,Exercise,Low,1,9
+972,18,Female,excessive worry,44,Anxiety,Yes,Yes,Stress,No Therapy Needed,Exercise,Moderate,9,4
+973,25,Other,lack of concentration,11,Anxiety,No,No,Anxiety,Psychotherapy,Meditation,Low,3,4
+974,66,Female,feeling overwhelmed,17,PTSD,Yes,No,Depression,Cognitive Behavioral Therapy,Take Breaks,Low,10,7
+975,52,Male,feeling irritable,4,OCD,Yes,No,Panic Disorder,Mindfulness-Based Therapy,Journaling,Low,3,10
+976,69,Non-binary,panic attacks,47,OCD,Yes,Yes,Burnout,Support Groups,Journaling,High,2,10
+977,32,Other,loss of interest in activities,25,None,Yes,Yes,Depression,No Therapy Needed,Breathing Exercises,Critical,8,2
+978,64,Male,feeling sad,30,Depression,No,Yes,Burnout,Mindfulness-Based Therapy,Meditation,Low,3,3
+979,39,Male,loss of interest in activities,9,Anxiety,No,No,Anxiety,Support Groups,Exercise,Low,6,3
+980,31,Non-binary,feeling irritable,21,Depression,Yes,No,Anxiety,No Therapy Needed,Exercise,Low,2,6
+981,43,Non-binary,panic attacks,20,OCD,No,Yes,Depression,No Therapy Needed,Talk to a Friend,High,7,3
+982,45,Female,excessive worry,19,OCD,No,No,Burnout,Cognitive Behavioral Therapy,Talk to a Friend,High,4,5
+983,40,Other,panic attacks,19,Bipolar Disorder,Yes,No,Anxiety,Mindfulness-Based Therapy,Breathing Exercises,High,9,4
+984,31,Other,excessive worry,12,None,No,No,Panic Disorder,No Therapy Needed,Exercise,Low,10,3
+985,41,Non-binary,lack of concentration,37,Bipolar Disorder,Yes,Yes,Stress,No Therapy Needed,Breathing Exercises,Moderate,9,8
+986,19,Female,feeling irritable,42,Bipolar Disorder,No,No,Stress,Support Groups,Meditation,Moderate,7,10
+987,62,Other,lack of concentration,17,Bipolar Disorder,No,Yes,Anxiety,Cognitive Behavioral Therapy,Journaling,Moderate,8,3
+988,43,Non-binary,trouble sleeping,37,None,No,Yes,Burnout,Psychotherapy,Exercise,Critical,3,6
+989,31,Male,excessive worry,48,None,Yes,Yes,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Low,5,7
+990,68,Other,feeling overwhelmed,39,PTSD,No,Yes,Burnout,Psychotherapy,Meditation,Moderate,2,7
+991,24,Female,lack of concentration,28,Depression,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Exercise,Moderate,10,2
+992,20,Female,trouble sleeping,41,Depression,Yes,No,Burnout,Mindfulness-Based Therapy,Take Breaks,Moderate,7,3
+993,64,Female,feeling anxious,35,PTSD,No,Yes,Anxiety,No Therapy Needed,Talk to a Friend,Low,8,10
+994,40,Male,loss of interest in activities,47,PTSD,Yes,Yes,Panic Disorder,Mindfulness-Based Therapy,Breathing Exercises,Moderate,9,10
+995,63,Other,panic attacks,48,OCD,No,Yes,Depression,No Therapy Needed,Talk to a Friend,Moderate,7,4
+996,60,Other,trouble sleeping,18,Bipolar Disorder,Yes,No,Stress,Cognitive Behavioral Therapy,Journaling,Low,10,7
+997,64,Male,feeling irritable,14,PTSD,Yes,No,Anxiety,Mindfulness-Based Therapy,Talk to a Friend,Critical,10,2
+998,62,Other,lack of concentration,35,Anxiety,No,No,Anxiety,Cognitive Behavioral Therapy,Exercise,High,8,3
+999,35,Male,feeling irritable,44,Depression,No,No,Anxiety,Cognitive Behavioral Therapy,Take Breaks,Moderate,9,7
+1000,55,Male,loss of interest in activities,41,PTSD,No,Yes,Panic Disorder,Mindfulness-Based Therapy,Talk to a Friend,High,6,7
